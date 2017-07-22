@@ -11,10 +11,15 @@
 \usepackage{ragged2e}
 \usepackage{times}			 %tipo de letra
 \usepackage{anyfontsize}     %PErmite usar modificar los tamaños de letra
+\usepackage{titlesec}	     %Modificar el titulo
 \bibliographystyle{apalike}  %Bibliografía Norma APA
 
 %                            crear colores                      %     
 \definecolor{rosaclaro}{RGB}{247,180,180}
+
+%                            redefiniendo comandos              %
+\renewcommand{\chaptername}{\bf{\large{\underline{CAP\'ITULO}}}}
+\titleformat{\chapter}[display]{\normalfont}{\bf\large\filcenter\large\ \underline{CAP\'ITULO \thechapter}}{0.5em}{\large\bfseries\filcenter\underline}
 
 % -------------- CUERPO ------------ %
 \begin{document}
@@ -100,22 +105,79 @@ Holaque hace como esta muy bien esxop me legr qurbfgs tu vida hace triempo bla b
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
-
+\singlespacing
 %%%%%%%%%%%%%%%%%%%%%%%%%%%% INDICEs %%%%%%%%%%%%%%%%%%%%%%%%%%%%\\
-\renewcommand{\contentsname}{\centering\bf{\large{\underline{\'INDICE}}}}
-\renewcommand{\listfigurename}{\centering\bf{\large{\underline{LISTA DE TABLAS}}}}
-\renewcommand{\listtablename}{\centering\bf{\large{\underline{LISTA DE FIGURAS}}}}
+\renewcommand{\contentsname}{\centering\bf{\large{{\'INDICE GENERAL}}}}
+\renewcommand{\listfigurename}{\centering\bf{\large{{LISTA DE TABLAS}}}}
+\renewcommand{\listtablename}{\centering\bf{\large{{LISTA DE FIGURAS}}}}
+
 \tableofcontents    % indice de materias
-\addcontentsline{toc}{chapter}{\'Indice}
+\addcontentsline{toc}{chapter}{\'Indice General}
 \listoffigures      % indice de figuras
 \addcontentsline{toc}{chapter}{Lista de Figuras}
 \listoftables       % indice de tablas
 \addcontentsline{toc}{chapter}{Lista de Tablas}
-\newpage
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\doublespacing
+%%%%%%%%%%%%%%%%%%%%%%%%%%%% CAPITULOS %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%% CAPITULO 1 %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\vspace*{5em}
+\chapter{TITULO DEL CAPITULO 1}
+\pagestyle{plain}
+\pagenumbering{arabic}
+\vspace*{-2em}
+\begin{justify}
+Holaque hace como esta muy bien esxop me legr qurbfgs tu vida hace triempo bla bla bla bla bla xd xd xd d
+\end{justify}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%% CAPITULO 2 %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\vspace*{5em}
+\chapter{TITULO DEL CAPITULO 2}
+\vspace*{-2em}
+\begin{justify}
+Holaque hace como esta muy bien esxop me legr qurbfgs tu vida hace triempo bla bla bla bla bla xd xd xd d
+\end{justify}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%% CAPITULO 3 %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\vspace*{5em}
+\chapter{TITULO DEL CAPITULO 3}
+\vspace*{-2em}
+\begin{justify}
+Holaque hace como esta muy bien esxop me legr qurbfgs tu vida hace triempo bla bla bla bla bla xd xd xd d
+\end{justify}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%% CAPITULO 4 %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\vspace*{5em}
+\chapter{TITULO DEL CAPITULO 4}
+\vspace*{-2em}
+\begin{justify}
+Holaque hace como esta muy bien esxop me legr qurbfgs tu vida hace triempo bla bla bla bla bla xd xd xd d
+\end{justify}
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
+\newpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%% CONCLUSIONES %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\addcontentsline{toc}{chapter}{Conclusiones}
+\vspace*{6em}
+\begin{center}
+{\bf{\large{\underline{CONCLUSIONES}}}}
+\end{center}
+\begin{justify}
+Holaque hace como esta muy bien esxop me legr qurbfgs tu vida hace triempo bla bla bla bla bla xd xd xd d
+\end{justify}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%% INDICEs %%%%%%%%%%%%%%%%%%%%%%%%%%%%\\
+
+\newpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%% BIBLIOGRAFIA %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\addcontentsline{toc}{chapter}{Bibliograf\'ia}
+\vspace*{6em}
+\bibliography{Bibliografia}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
 
 \end{document}

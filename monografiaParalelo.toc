@@ -1,6 +1,12 @@
 \select@language {spanish}
 \contentsline {chapter}{Resumen}{I}
 \contentsline {chapter}{Introducci\IeC {\'o}n}{II}
-\contentsline {chapter}{\'Indice}{III}
+\contentsline {chapter}{\'Indice General}{III}
 \contentsline {chapter}{Lista de Figuras}{IV}
 \contentsline {chapter}{Lista de Tablas}{V}
+\contentsline {chapter}{\numberline {1}TITULO DEL CAPITULO 1}{1}
+\contentsline {chapter}{\numberline {2}TITULO DEL CAPITULO 2}{2}
+\contentsline {chapter}{\numberline {3}TITULO DEL CAPITULO 3}{3}
+\contentsline {chapter}{\numberline {4}TITULO DEL CAPITULO 4}{4}
+\contentsline {chapter}{Conclusiones}{5}
+\contentsline {chapter}{Bibliograf\'ia}{6}
