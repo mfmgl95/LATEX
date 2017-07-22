@@ -1,0 +1,121 @@
+% -------------- PREAMBULO ------------ %
+\documentclass[a4paper, 12pt]{report}
+\usepackage[left = 3cm, top = 2.5cm, bottom = 3cm, right = 2.5cm]{geometry}
+\usepackage[spanish]{babel}
+\usepackage[utf8]{inputenc}  %Uso de simbolos directamente del teclado
+\usepackage[T1]{fontenc}     %Salida 
+\usepackage{graphicx}        %Manejo de figuras y graficos
+\usepackage{booktabs}        %Para formar tablas
+\usepackage{color}           %Para usar colores
+\usepackage{setspace}        %Usado para doble espacio, espacio y medio y espacio simple
+\usepackage{ragged2e}
+\usepackage{times}			 %tipo de letra
+\usepackage{anyfontsize}     %PErmite usar modificar los tamaños de letra
+\bibliographystyle{apalike}  %Bibliografía Norma APA
+
+%                            crear colores                      %     
+\definecolor{rosaclaro}{RGB}{247,180,180}
+
+% -------------- CUERPO ------------ %
+\begin{document}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%% PORTADA %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\pagestyle{empty}                          
+\spacing{1.2}
+
+\begin{center}
+ {\bf {\fontsize{18}{20.8}\selectfont UNIVERSIDAD NACIONAL DE TRUJILLO}}  
+  
+ {\bf{\fontsize{16}{18.8}\selectfont Facultad de Ciencias Físicas y Matemáticas}} 
+ 
+ {\bf{\fontsize{16}{18.8}\selectfont Escuela Académico Profesional de Informática}} 	
+\end{center}  
+
+\vskip .5cm
+\begin{figure}[ht]
+	\begin{center}
+		\includegraphics[width=.3\textwidth]{unt}
+	\end{center}
+\end{figure}
+
+\begin{center}
+	{\bf {\fontsize{18}{20.4}\selectfont{Monograf\'ia que como parte del curso de T\'opicos en Procesamiento Paralelo:}}}
+	
+	{\bf {\fontsize{19}{20.4}\selectfont{\vskip .2cm ``Estado del Arte de Cloud Computing''}}}
+\end{center}   
+
+\vskip 1.5cm
+{\bf {\fontsize{17}{20.4}\selectfont{Nombre de autor(es):}}} 
+
+\begin{center}
+	\fontsize{14}{16.8}\selectfont{\'Alvarez Carbajal, Gaby Yuri}		
+	
+	\fontsize{14}{16.8}\selectfont{Cruz Leyva, Segundo Junior}
+	
+	\fontsize{14}{16.8}\selectfont{Gonza Llaque, Renato Fabrizzio}
+	
+	\fontsize{14}{16.8}\selectfont{Guevara Liz\'arraga, Mar\'ia Fernanda}
+	
+	\fontsize{14}{16.8}\selectfont{Lavado Azabache, Jonatan E....}
+\end{center}
+
+{\bf {\fontsize{17}{20.4}\selectfont{Nombre del Asesor:\vskip .5cm}}} 
+\begin{center}  
+{\fontsize{14}{14}\selectfont{Mg. Mendoza, Edwin}}
+\end{center}  
+
+\vskip 3cm
+\begin{center}    
+	{\bf {\fontsize{14}{16.8}\selectfont Trujillo - La Libertad
+	\\ 2016 }}
+\end{center} 
+\newpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\pagestyle{plain}
+\doublespacing
+\pagenumbering{Roman}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%% RESUMEN %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\addcontentsline{toc}{chapter}{Resumen}
+\vspace*{6em}
+\begin{center}
+{\bf{\large{\underline{RESUMEN}}}}
+\end{center}
+\begin{justify}
+Holaque hace como esta muy bien esxop me legr qurbfgs tu vida hace triempo bla bla bla bla bla xd xd xd d
+\end{justify}
+\newpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%% INTRODCUCCION %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\addcontentsline{toc}{chapter}{Introducción}
+\vspace*{6em}
+\begin{center}
+{\bf{\large{\underline{INTRODUCCI\'ON}}}}
+\end{center}
+\begin{justify}
+Holaque hace como esta muy bien esxop me legr qurbfgs tu vida hace triempo bla bla bla bla bla xd xd xd d
+\end{justify}
+\newpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%% INDICEs %%%%%%%%%%%%%%%%%%%%%%%%%%%%\\
+\renewcommand{\contentsname}{\centering\bf{\large{\underline{\'INDICE}}}}
+\renewcommand{\listfigurename}{\centering\bf{\large{\underline{LISTA DE TABLAS}}}}
+\renewcommand{\listtablename}{\centering\bf{\large{\underline{LISTA DE FIGURAS}}}}
+\tableofcontents    % indice de materias
+\addcontentsline{toc}{chapter}{\'Indice}
+\listoffigures      % indice de figuras
+\addcontentsline{toc}{chapter}{Lista de Figuras}
+\listoftables       % indice de tablas
+\addcontentsline{toc}{chapter}{Lista de Tablas}
+\newpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%% INDICEs %%%%%%%%%%%%%%%%%%%%%%%%%%%%\\
+
+\end{document}

@@ -1,0 +1,6 @@
+\select@language {spanish}
+\contentsline {chapter}{Resumen}{I}
+\contentsline {chapter}{Introducci\IeC {\'o}n}{II}
+\contentsline {chapter}{\'Indice}{III}
+\contentsline {chapter}{Lista de Figuras}{IV}
+\contentsline {chapter}{Lista de Tablas}{V}
