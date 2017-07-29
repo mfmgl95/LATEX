@@ -7,14 +7,16 @@
 \usepackage{graphicx}        %Manejo de figuras y graficos
 \usepackage{booktabs}        %Para formar tablas
 \usepackage{color}           %Para usar colores
-\usepackage{setspace}        %Usado para doble espacio, espacio y medio y espacio simple
+\usepackage{setspace}        %Usado para doble espacio, espacio y medio y espacio simple (\onehalfspace  \doublespacing  \singlespace)
 \usepackage{ragged2e}
-\usepackage{times}			 %tipo de letra
+\usepackage{times}			 %Tipo de letra
 \usepackage{anyfontsize}     %PErmite usar modificar los tamaños de letra
 \usepackage{titlesec}	     %Modificar el titulo
+\setcounter{secnumdepth}{3}  %Para que ponga 1.1.1.1 en subsubsecciones
+\setcounter{tocdepth}{3}     %Para que ponga subsubsecciones en el indice
 \bibliographystyle{apalike}  %Bibliografía Norma APA
 
-%                            crear colores                      %     
+%                            Crear colores                      %     
 \definecolor{rosaclaro}{RGB}{247,180,180}
 
 %                            redefiniendo comandos              %
@@ -166,16 +168,16 @@ Holaque hace como esta muy bien esxop me legr qurbfgs tu vida hace triempo bla b
 {\bf{\large{\underline{CONCLUSIONES}}}}
 \end{center}
 \begin{justify}
-Holaque hace como esta muy bien esxop me legr qurbfgs tu vida hace triempo bla bla bla bla bla xd xd xd d
+Holaque hace como esta muy bien esxop me legr qurbfgs tu vida hace triempo bla bla bla bla bla xd xd xd d bla bla blan \citep{Lamport}
 \end{justify}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
-\newpage
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%% BIBLIOGRAFIA %%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \addcontentsline{toc}{chapter}{Bibliograf\'ia}
 \vspace*{6em}
-\bibliography{Bibliografia}
+	\bibliography{Bibliografia}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
