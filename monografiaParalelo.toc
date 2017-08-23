@@ -1,6 +1,6 @@
 \select@language {spanish}
 \contentsline {chapter}{Resumen}{I}
-\contentsline {chapter}{Introducci\IeC {\'o}n}{II}
+\contentsline {chapter}{Introducción}{II}
 \contentsline {chapter}{\'Indice General}{IV}
 \contentsline {chapter}{Lista de Figuras}{V}
 \contentsline {chapter}{Lista de Tablas}{VI}
@@ -15,7 +15,7 @@
 \contentsline {section}{\numberline {1.4}Clasificaci\'on De Las Soluciones Computaci\'on Cloud}{3}
 \contentsline {subsection}{\numberline {1.4.1}Seg\'un Modelos De Servicio}{3}
 \contentsline {subsection}{\numberline {1.4.2}Seg\'un Tipo De Nube}{4}
-\contentsline {subsection}{\numberline {1.4.3}Seg\IeC {\'u}n Por Agentes Intervinientes En El Negocio}{5}
+\contentsline {subsection}{\numberline {1.4.3}Según Por Agentes Intervinientes En El Negocio}{5}
 \contentsline {chapter}{\numberline {2}VENTAJAS, DESVENTAJAS Y RETOS}{7}
 \contentsline {section}{\numberline {2.1}Ventajas}{7}
 \contentsline {subsection}{\numberline {2.1.1}Ventajas para las empresas}{8}
@@ -24,18 +24,18 @@
 \contentsline {subsection}{\numberline {2.1.4}Ventajas para la investigaci\'on cient\'ifica}{12}
 \contentsline {subsection}{\numberline {2.1.5}Ventajas para los ciudadanos}{13}
 \contentsline {section}{\numberline {2.2}Desventajas}{14}
-\contentsline {section}{\numberline {2.3}Retos}{15}
-\contentsline {subsection}{\numberline {2.3.1}Disponibilidad del servicio}{15}
-\contentsline {subsection}{\numberline {2.3.2}Restricciones geogr\'aficas}{15}
-\contentsline {subsection}{\numberline {2.3.3}Seguridad y privacidad de datos}{15}
-\contentsline {subsection}{\numberline {2.3.4}Amortizaci\'on tecnol\'ogica}{15}
-\contentsline {chapter}{\numberline {3}TITULO DEL CAPITULO 3}{16}
-\contentsline {chapter}{\numberline {4}TECNOLOG\'IAS ACTUALES}{17}
-\contentsline {section}{\numberline {4.1}Empresas que brindan servicios de Cloud}{17}
-\contentsline {subsection}{\numberline {4.1.1}Amazon.com}{17}
-\contentsline {subsection}{\numberline {4.1.2}Google Inc}{19}
-\contentsline {subsection}{\numberline {4.1.3}Azure}{21}
-\contentsline {section}{\numberline {4.2}Casos de Implementaci\IeC {\'o}n}{21}
-\contentsline {section}{\numberline {4.3}Diferencias entre Empresas que ofrecen Cloud Computing}{21}
-\contentsline {chapter}{Conclusiones}{24}
-\contentsline {chapter}{Bibliograf\'ia}{24}
+\contentsline {section}{\numberline {2.3}Retos}{16}
+\contentsline {subsection}{\numberline {2.3.1}Disponibilidad del servicio}{16}
+\contentsline {subsection}{\numberline {2.3.2}Restricciones geogr\'aficas}{16}
+\contentsline {subsection}{\numberline {2.3.3}Seguridad y privacidad de datos}{16}
+\contentsline {subsection}{\numberline {2.3.4}Amortizaci\'on tecnol\'ogica}{16}
+\contentsline {chapter}{\numberline {3}TITULO DEL CAPITULO 3}{17}
+\contentsline {chapter}{\numberline {4}TECNOLOG\'IAS ACTUALES}{18}
+\contentsline {section}{\numberline {4.1}Empresas que brindan servicios de Cloud}{18}
+\contentsline {subsection}{\numberline {4.1.1}Amazon.com}{18}
+\contentsline {subsection}{\numberline {4.1.2}Google Inc}{20}
+\contentsline {subsection}{\numberline {4.1.3}Azure}{22}
+\contentsline {section}{\numberline {4.2}Casos de Implementación}{22}
+\contentsline {section}{\numberline {4.3}Diferencias entre Empresas que ofrecen Cloud Computing}{22}
+\contentsline {chapter}{Conclusiones}{25}
+\contentsline {chapter}{Bibliograf\'ia}{25}
