@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.7.18)  23 AUG 2017 16:02
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.7.18)  23 AUG 2017 16:10
 entering extended mode
 **./monografiaParalelo.tex
 (monografiaParalelo.tex
@@ -543,7 +543,10 @@ Package: natbib 2010/09/13 8.31b (PWD, AO)
 LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count105
 )
-(monografiaParalelo.aux
+(C:\Users\GLizarragaMF\AppData\Roaming\MiKTeX\2.9\tex\latex\placeins\placeins.s
+ty
+Package: placeins 2005/04/18  v 2.2
+) (monografiaParalelo.aux
 LaTeX Info: Redefining \. on input line 7.
 LaTeX Info: Redefining \% on input line 7.
 )
@@ -562,7 +565,8 @@ LaTeX Font Info:    ... okay on input line 30.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
 LaTeX Font Info:    ... okay on input line 30.
 LaTeX Font Info:    Try loading font information for T1+ptm on input line 30.
- ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\t1ptm.fd"
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\t1ptm.fd"
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 )
 *geometry* driver: auto-detecting
@@ -770,67 +774,44 @@ File: google_cloud.png Graphic file (type png)
 <use google_cloud.png>
 Package pdftex.def Info: google_cloud.png used on input line 372.
 (pdftex.def)             Requested size: 346.89867pt x 156.28508pt.
-
-
-! LaTeX Error: Unknown float option `H'.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.383 \begin{figure}[H]
-                       
-Option `H' ignored and `p' used.
-
-<encuesta.png, id=94, 578.16pt x 289.83281pt>
+ <encuesta.png, id=94, 578.16pt x 289.83281pt>
 File: encuesta.png Graphic file (type png)
- <use encuesta.png>
+
+<use encuesta.png>
 Package pdftex.def Info: encuesta.png used on input line 385.
 (pdftex.def)             Requested size: 231.2599pt x 115.93106pt.
- [19 <./google_cloud.png>]
-
-! LaTeX Error: Unknown float option `H'.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.404 \begin{figure}[H]
-                       
-Option `H' ignored and `p' used.
-
-<migracion.jpg, id=99, 578.16pt x 323.70938pt>
+ [19 <./google_cloud.png> <./encuesta.png>]
+<migracion.jpg, id=100, 578.16pt x 323.70938pt>
 File: migracion.jpg Graphic file (type jpg)
  <use migracion.jpg>
-Package pdftex.def Info: migracion.jpg used on input line 406.
+Package pdftex.def Info: migracion.jpg used on input line 407.
 (pdftex.def)             Requested size: 404.70924pt x 226.59502pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 439--439
+ [20 <./migracion.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 440--440
 []\T1/ptm/b/n/12 Modelo de
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 443--443
+Underfull \hbox (badness 10000) in paragraph at lines 444--444
 []\T1/ptm/m/n/12 CIPSA y
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 443--443
+Underfull \hbox (badness 10000) in paragraph at lines 444--444
 []\T1/ptm/m/n/12 SaaS (cloud
  []
 
 
-Underfull \hbox (badness 6125) in paragraph at lines 457--457
+Underfull \hbox (badness 6125) in paragraph at lines 458--458
 []\T1/ptm/m/n/12 Ivestigación, desa-rro-llo
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 457--457
+Underfull \hbox (badness 10000) in paragraph at lines 458--458
 []\T1/ptm/m/n/12 Windows
  []
 
-[20] [21 <./encuesta.png> <./migracion.jpg>] [22] [23] (monografiaParalelo.bbl
-[24] [25
+[21] [22] [23] (monografiaParalelo.bbl [24] [25
 
 ]) [26] (monografiaParalelo.aux
 LaTeX Info: Redefining \. on input line 7.
@@ -845,18 +826,18 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 ### semi simple group (level 1) entered at line 33 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 4759 strings out of 493323
- 64433 string characters out of 3139045
- 149671 words of memory out of 3000000
- 8177 multiletter control sequences out of 15000+200000
+ 4775 strings out of 493323
+ 64814 string characters out of 3139045
+ 147752 words of memory out of 3000000
+ 8189 multiletter control sequences out of 15000+200000
  44779 words of font info for 53 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 39i,10n,31p,720b,528s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 39i,10n,31p,720b,524s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Pr
 ogram Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTe
 X 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
 /urw/times/utmri8a.pfb>
-Output written on monografiaParalelo.pdf (33 pages, 618110 bytes).
+Output written on monografiaParalelo.pdf (33 pages, 618080 bytes).
 PDF statistics:
  136 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

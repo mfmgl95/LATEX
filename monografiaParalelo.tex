@@ -21,7 +21,7 @@
 \usepackage{natbib}
 %                            Crear colores                      %     
 \definecolor{rosaclaro}{RGB}{247,180,180}
-
+\usepackage{placeins}
 %                            redefiniendo comandos              %
 \renewcommand{\chaptername}{\bf{\large{\underline{CAP\'ITULO}}}}
 \titleformat{\chapter}[display]{\normalfont}{\bf\large\filcenter\large\ \underline{CAP\'ITULO \thechapter}}{0.5em}{\large\bfseries\filcenter\underline}
@@ -380,7 +380,7 @@ De acuerdo con \cite{awscasos} otras  de las empresas que cuentan con el respald
 \begin{justify}
 Según \cite{google_cloud} en las \'ultimas encuestas de SADA Systems sobre el uso p\'ublico de la nube, los  gerentes de TI encuestados dan se\~{n}ales del crecimiento que esta teniendo hoy en día la insfraestructura de nube p\'ublica.
 \end{justify}
-\begin{figure}[H]
+\begin{figure}[ht]
 \begin{center}
 \includegraphics[scale=0.4]{encuesta}
 \end{center}
@@ -401,7 +401,8 @@ Estas son algunas de las empresas que  desarrollan sus productos con Google Clou
 \begin{justify}
 Un gran punto a favor que tiene hoy en día Google Cloud Plataform es que permite la migraci\'on en vivo de m\'aquinas Virtuales, funcionalidad que ni Azure ni AWS tienen. En la siguiente figura se detallan los  pasos de alto nivel involucrados en una migración de VM en vivo (Figura \ref{migracion}).
 \end{justify}
-\begin{figure}[H]
+\FloatBarrier 
+\begin{figure}[ht]
 \begin{center}
 \includegraphics[scale=0.7]{migracion}
 \end{center}
