@@ -25,17 +25,17 @@
 \contentsline {subsection}{\numberline {2.1.5}Ventajas para los ciudadanos}{13}
 \contentsline {section}{\numberline {2.2}Desventajas}{14}
 \contentsline {section}{\numberline {2.3}Retos}{16}
-\contentsline {subsection}{\numberline {2.3.1}Disponibilidad del servicio}{16}
-\contentsline {subsection}{\numberline {2.3.2}Restricciones geogr\'aficas}{16}
-\contentsline {subsection}{\numberline {2.3.3}Seguridad y privacidad de datos}{16}
-\contentsline {subsection}{\numberline {2.3.4}Amortizaci\'on tecnol\'ogica}{16}
-\contentsline {chapter}{\numberline {3}TITULO DEL CAPITULO 3}{17}
-\contentsline {chapter}{\numberline {4}TECNOLOG\'IAS ACTUALES}{18}
-\contentsline {section}{\numberline {4.1}Empresas que brindan servicios de Cloud}{18}
-\contentsline {subsection}{\numberline {4.1.1}Amazon.com}{18}
-\contentsline {subsection}{\numberline {4.1.2}Google Inc}{20}
-\contentsline {subsection}{\numberline {4.1.3}Azure}{22}
-\contentsline {section}{\numberline {4.2}Casos de Implementación}{22}
-\contentsline {section}{\numberline {4.3}Diferencias entre Empresas que ofrecen Cloud Computing}{22}
-\contentsline {chapter}{Conclusiones}{25}
-\contentsline {chapter}{Bibliograf\'ia}{25}
+\contentsline {subsection}{\numberline {2.3.1}Disponibilidad del servicio}{17}
+\contentsline {subsection}{\numberline {2.3.2}Restricciones geogr\'aficas}{17}
+\contentsline {subsection}{\numberline {2.3.3}Seguridad y privacidad de datos}{17}
+\contentsline {subsection}{\numberline {2.3.4}Amortizaci\'on tecnol\'ogica}{17}
+\contentsline {chapter}{\numberline {3}COMPUTACI\'ON CLOUD EN LA ACTUALIDAD 3}{18}
+\contentsline {chapter}{\numberline {4}TECNOLOG\'IAS ACTUALES}{27}
+\contentsline {section}{\numberline {4.1}Empresas que brindan servicios de Cloud}{27}
+\contentsline {subsection}{\numberline {4.1.1}Amazon.com}{27}
+\contentsline {subsection}{\numberline {4.1.2}Google Inc}{29}
+\contentsline {subsection}{\numberline {4.1.3}Azure}{31}
+\contentsline {section}{\numberline {4.2}Casos de Implementación}{31}
+\contentsline {section}{\numberline {4.3}Diferencias entre Empresas que ofrecen Cloud Computing}{31}
+\contentsline {chapter}{Conclusiones}{34}
+\contentsline {chapter}{Bibliograf\'ia}{34}
