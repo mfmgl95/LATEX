@@ -10,6 +10,7 @@
 \usepackage{longtable, multirow}        %Para formar tablas largas y multicolumnas
 \usepackage{color}           %Para usar colores
 \usepackage{setspace}        %Usado para doble espacio, espacio y medio y espacio simple (\onehalfspace  \doublespacing  \singlespace)
+\usepackage{enumitem}        %Para enumerar
 \usepackage{ragged2e}
 \usepackage{times}			 %Tipo de letra
 \usepackage{anyfontsize}     %PErmite usar modificar los tamaños de letra
@@ -64,7 +65,7 @@
 	
 	\fontsize{14}{16.8}\selectfont{Guevara Liz\'arraga, Mar\'ia Fernanda}
 	
-	\fontsize{14}{16.8}\selectfont{Lavado Azabache, Jonatan E....}
+	\fontsize{14}{16.8}\selectfont{Lavado Azabache, Jonatan Esleyter}
 \end{center}
 
 {\bf {\fontsize{17}{20.4}\selectfont{Nombre del Asesor:\vskip .5cm}}} 
@@ -75,7 +76,7 @@
 \vskip 3cm
 \begin{center}    
 	{\bf {\fontsize{14}{16.8}\selectfont Trujillo - La Libertad
-	\\ 2016 }}
+	\\ 2017 }}
 \end{center} 
 \newpage
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -127,22 +128,203 @@ Holaque hace como esta muy bien esxop me legr qurbfgs tu vida hace triempo bla b
 %%%%%%%%%%%%%%%%%%%%%%%%%%%% CAPITULOS %%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%% CAPITULO 1 %%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \vspace*{5em}
-\chapter{TITULO DEL CAPITULO 1}\label{cap1}
+
+\chapter{COMPUTACI\'ON CLOUD}\label{cap1}
 \pagestyle{plain}
 \pagenumbering{arabic}
 \vspace*{-2em}
 \begin{justify}
-Holaque hace como esta muy bien esxop me legr qurbfgs tu vida hace triempo bla bla bla bla bla xd xd xd d
+\end{justify}
+\section{Origen De La Computaci\'on Cloud}
+\subsection{Computaci\'on Distribuida}
+\subsection{Beneficios Y Limitaciones De La Computaci\'pon Distribuida}
+\subsection{Implementaciones}
+\begin{enumerate}[label=\alph*)]
+    \item{Cl\'uster}
+    \item{Grid}
+    \item{P2P}
+\end{enumerate}
+\subsection{Evoluci\'on Hacia La Computaci\'on Cloud}
+\section{Concepto De La Computaci\'on Cloud}
+\begin{justify}
+Una definici\'on para la Computaci\'on Cloud es que puede ser visto como un sistema de computaci\'on distribuido orientado al consumidor. Dicho sistema consiste en una agrupaci\'on de ordenadores virtualizados e interconectados que son suministrados din\'amicamente y presentados como uno o m\'as recursos computacionales unificados.
+\end{justify}
+\section{Caracter\'isticas De La Computaci\'on Cloud}
+\begin{justify}
+No es necesario disponer de un equipo potente, tan s\'olo de un aparato con conexi\'on a internet; esto debido a que el dispositivo del usuario no realizar\'ia ning\'un proceso complejo y los ficheros pueden guardarse en la nube. Los servidores en donde se hallan los programas que se utilicen son los encargados de las tareas complicadas que antes se realizaba localmente.
+\end{justify}
+Algunas caracter\'isticas de la Computaci\'on Cloud, seg\'un \cite{oscarAvilaMejia}, son:
+\begin{itemize}
+    \item{Escalabilidad:} El sistema establece un nivel de servicios que crea nuevas instancias de acuerdo a la demanda de operaciones existente de tal forma que se reduzca el tiempo de espera y los cuellos de botella.
+    \item{Virtualizaci\'on:} Las aplicaciones son independientes del hardware en el que corran. El usuario es libre de usar la plataforma que desee en su terminal (Windows, Unix, Mac, etc.), al utilizar las aplicaciones existentes en la nube puede estar seguro de que su trabajo conservar\'a sus caracter\'isticas bajo otra plataforma.
+    \item{Autoreparable:} En caso de surgir un fallo, el \'ultimo respaldo (backup) de la aplicaci\'on se convierte autom\'aticamente en la copia primaria y a partir de \'esta se genera uno nuevo.
+    \item{Seguridad:} El sistema permite a diferentes clientes compartir la infraestructura sin preocuparse de comprometer su seguridad y privacidad; de esto se ocupa el sistema proveedor que se encarga de cifrar los datos.
+    \item{Disponibilidad:} No se hace necesario guardar los documentos del usuario en su computadora o en medios f\'isicos ya que la informaci\'on radicar\'a en Internet permitiendo su acceso desde cualquier dispositivo conectado a la red.
+    \item{Precios:} La computaci\'on cloud no requiere una inversión adicional. No se requiere ning\'un gasto de capital. Los usuarios pagan por servicios y capacidad cuando los necesitan.
+\end{itemize}
+\section{Clasificaci\'on De Las Soluciones Computaci\'on Cloud}
+\subsection{Seg\'un Modelos De Servicio}
+\begin{justify}
+La computación en nube puede ser vista como una colección de servicios, la cual puede ser presentada como una arquitectura en capas, como se muestra en la figura \ref{fig:capas1}:
+\begin{figure}[ht]
+	\begin{center}
+		\includegraphics[width=.3\textwidth]{cloudcapas}
+		\caption{Arquitectura en capas de computaci\'on cloud \cite{handbook}}
+		\label{fig:capas1}
+	\end{center}
+\end{figure}
+\begin{enumerate}[label=\alph*)]
+    \item{IaaS:} Se refiere a los recursos informáticos como un servicio. Esto incluye computadoras virtualizadas con potencia de procesamiento garantizada y ancho de banda reservado para almacenamiento y acceso a Internet
+    \item{PaaS:} Es similar a IaaS, pero también incluye sistemas operativos y servicios requeridos para una aplicación particular. En otras palabras, PaaS es IaaS con un stack de software personalizado para la aplicación dada.
+    \item{SaaS:} Que se muestra en la parte superior de la figura \ref{fig:capas1}. SaaS permite a los usuarios ejecutar aplicaciones de forma remota desde la nube.
+    \item{dSaaS:} Proporciona almacenamiento que el consumidor utilizar\'a, incluyendo los requisitos de ancho de banda para el almacenamiento.
+\end{enumerate}
+\end{justify}
+
+\subsection{Seg\'un Tipo De Nube}
+\begin{justify}
+Hay tres tipos de computación cloud, los cuales se muestran en la figura \ref{fig:cloudtipos}
+\begin{figure}[ht]
+	\begin{center}
+		\includegraphics[width=.8\textwidth]{cloudtipos}
+		\caption{Tres tipos de computaci\'on cloud \cite{handbook}}
+		\label{fig:cloudtipos}
+	\end{center}
+\end{figure}
+\begin{enumerate}[label=\alph*)]
+    \item{P\'ublica:} En la nube pública (o en la nube externa), los recursos inform\'aticos se suministran din\'amicamente mendiante Internet a trav\'es de aplicaciones Web o Servicios Web de un proveedor externo (de terceros). Las nubes p\'ublicas son ejecutadas por terceros, y es probable que las aplicaciones de diferentes clientes se mezclen entre sí en los servidores, sistemas de almacenamiento y redes de la nube.
+    \item{Privada:} La nube privada (o nube interna) se refiere a la computaci\'on cloud en redes privadas. Las nubes privadas se construyen para el uso exclusivo de un cliente, proporcionando un control total sobre los datos, la seguridad y la calidad del servicio. Las nubes privadas pueden ser construidas y administradas por la propia organización de TI de la empresa o por un proveedor de la nube.
+    \item{H\'ibrida:} Un entorno de nube híbrido combina los modelos de nube pública y privada. Las nubes híbridas introducen la complejidad de determinar cómo distribuir aplicaciones a través de una nube pública y privada
+    \item{Comunitaria:} El modelo de nube comunitaria permite el acceso a un número de organizaciones o consumidores que pertenecen a una comunidad y el modelo se construye para servir a algún propósito común y específico. Es para el uso de alguna comunidad de personas u organizaciones que comparten preocupaciones comunes en funcionalidades empresariales, requisitos de seguridad, etc. Este modelo permite compartir infraestructura y recursos entre múltiples consumidores pertenecientes a una única comunidad y por lo tanto se hace más barato comparado con una nube privada \cite{sandeep}
+\end{enumerate}
+\end{justify}
+
+\subsection{Según Por Agentes Intervinientes En El Negocio}
+\begin{justify}
+Los agentes intervinientes en el negocio seg\'un \cite{tratecno}, se muestran en la figura \ref{fig:agentesintervinientes}
+\begin{figure}[ht]
+	\begin{center}
+		\includegraphics[width=.6\textwidth]{agentesintervinientes}
+		\caption{Agentes intervinientes en el negocio \cite{tratecno}}
+		\label{fig:agentesintervinientes}
+	\end{center}
+\end{figure}
+\begin{enumerate}[label=\alph*)]
+    \item{Habilitador:} Enfocados a ofrecer una serie de servicios Hardware o Software a otros proveedores.
+    \item{Proveedor:} Los servicios que presta a los intermediarios y clientes, o bien los genera directamente el, o los contrata a otros proveedores o habilitadores.
+    \item{Auditor:} Las funciones a desarrollar por los auditores, son las de llevar a cabo evaluaciones de los servicios, rendimientos y seguridad de las operaciones en el uso de las soluciones Cloud.
+    \item{Intermediario:} Los intermediarios adecuan las soluciones para los clientes negociando los distintos servicios, añadiéndole en muchos casos ciertos servicios adicionales como pueden ser algunos apoyos en formación, implementación, etc.
+    \item{Cliente:} Dentro del esquema de los agentes intervinientes, es aquel que va a contratar los servicios del resto de los agentes.
+\end{enumerate}
+
 \end{justify}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%% CAPITULO 2 %%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \vspace*{5em}
-\chapter{TITULO DEL CAPITULO 2}
+\chapter{VENTAJAS, DESVENTAJAS Y RETOS}
 \vspace*{-2em}
+\section{Ventajas}
 \begin{justify}
-Holaque hace como esta muy bien esxop me legr qurbfgs tu vida hace triempo bla bla bla bla bla xd xd xd d
-\end{justify}
+Las soluciones y servicios de cloud computing ofrecen una serie de ventajas a las empresas privadas (econ\'omico-financieras,foco en el negocio, rapidez y flexibilidad, tecnol\'ogicas, seguridad, disponibilidad y movilidad, etc.), a la econom\'ia, a las organizaciones p\'ublicas y de investigaci\'on y a los ciudadanos (mayor y mejor oferta de servicios, gobierno abierto, educaci\'on), respecto de las funcionalidades ofrecidas por los sistemas tradicionales de TI y esto es gracias a su rapidez, flexibilidad, disponibilidad, etc. De entre todas las ventajas que hay, las más notables para los usuarios son el ahorro en costes y la facilidad para aumentar los recursos disponibles.
 
+Los ahorros en costes son debidos a que es posible evitar los gastos tanto en hardware, como en software, soporte y seguridad. Por otro lado, la flexibilidad y la escalabilidad de los recursos se hace de una manera muy sencilla y en el momento que el cliente lo requiera, de forma que puede aumentar o disminuir los recursos que está utilizando en cualquier momento y adem\'as pagando solo por lo que usa. Otra de las ventajas m\'as atrayentes es la capacidad de recuperación ante problemas, o desastres.
+
+Podemos decir que gracias a todas las ventajas que ofrece el paradigma del cloud computing frente a los m\'etodos tradicionales, est\'a haciendo que aumente la productividad de las empresas, se mejore en los servicios públicos y la calidad de vida.
+
+\end{justify}
+\newpage
+\subsection{Ventajas para las empresas}
+\begin{justify}
+Actualmente el cloud computing es un instrumento acelerador para que una empresa logre evolucionar en su competividad proporcionando ventajas estrat\'egicas, t\'ecnicas, para la sostenibilidad y econ\'omicas que ya se mencionaron antes.
+\begin{enumerate}[label=\alph*)]
+    \item{Ventajas estrat\'egicas:} 
+				\begin{itemize}
+						\item{Creaci\'on de nuevos productos y servicios: } Esto es posible debido a la reduccio\'n de 	costes, que hace que sea posible que las empresas creen nuevos productos y/o servicios, que antes no resultaban rentables.
+						\item{Trabajo colaborativo: } La computaci\'on en la nube permite que muchas personas a la vez puedan trabajar sobre la misma herramienta, aplicaci\'on o documento, de esta manera se fomenta la productividad, comunicaci\'on y colaboraci\'on entre empleados.
+						\item{Mejora de la productividad: } Como los recursos est\'an disponibles para acceder a ellos desde cualquier ubicaci\'on f\'isica, se puede trabajar sobre los recursos de forma online, desde cualquier lugar, haciendo que aumente la flexibilidad de la empresa para trabajar a distancia y la productividad de sus empleados.
+						\item{Innovaci\'on: } El ahorro en costes hace que la empresa pueda centrar sus esfuerzos en desarrollar su activadad de negocio, haciendo posible que la empresa tenga m\'as posibilidades de invertir en innovaci\'on.
+				\end{itemize}
+		\newpage
+    \item{Ventajas te\'cnicas:}
+				\begin{itemize}
+						\item{}La nube es una plataforma que permite a los usuarios disponer de la tecnolog\'ia m\'as actual, lo que hace que no haya riesgo de p\'erdida de competitividad por obsolescencia tecnol\'ogica. Adem\'as de esto el tiempo de adopci\'on de nuevos servicios, infraestructuras o tecnolog\'ias es mucho menor. 
+						\item{}Los proveedores de cloud computing tambi\'en ofrecen soporte y redundancia en los sistemas que sus clientes contratan, de manera que existe una gran resistencia a desastres y buena capacidad de recuperación ante fallos.
+				\end{itemize}
+    \item{Ventajas para la sostenibilidad:} 
+				\begin{itemize}
+						\item{}La reducción en el consumo de energ\'ia es notable, debido a que la empresa necesita de menos equipamiento propio, ya que lo contrata al proveedor. Esto es posible porque la empresa no dispone de un exceso de recursos inform\'aticos, sino que la plataforma que contrata se adapta a las necesidades de su entidad. Los centros de datos utilizan diseños de infraestructuras avanzados, de forma que los sistemas de refrigeraci\'on y de acondicionamiento de energ\'ia se aprovechen bien y no haya p\'erdidas.
+				\end{itemize}
+\end{enumerate}
+\end{justify}
+\newpage
+\subsection{Ventajas para la econom\'ia}
+\begin{justify}
+El cloud computing genera un notable efecto de dinamizaci\'on econ\'omica y del empleo en aquellos pa\'ises en los que su desarrollo e implantaci\'on est\'a m\'as evolucionado. Al igual que el sector TIC o la aparici\'on de Internet gener\'o una revoluci\'on de los modelos empresariales y econ\'omicos durante las tres \'ultimas d\'ecadas y supuso un motor de desarrollo para todos los pa\'ises, el cloud computing est\'a llamado a ser un nuevo punto de ruptura para la econom\'ia mundial en general y para el sector de las tecnolog\'ias y servicios profesionales en particular.
+
+Este efecto dinamizador se fundamenta en el hecho de que los beneficios que obtienen las empresas proveedoras de servicios cloud se reinvierte en la econom\'ia a trav\'es de consumos intermedios en otros sectores derivados, genera una dinamizaci\'on de empleo cualificado e incrementa el poder adquisitivo y el consumo en un territorio. 
+
+Adicionalmente, las empresas suscriptoras del servicio adquieren las econom\'ias de escala de los proveedores, reduciendo con ello sus costes globales en TI. Gracias a la presencia de estas econom\'ias de escala en el sector, se suprimen las barreras de entrada en el mercado de nuevos proveedores, suscriptores e intermediarios, dinamizando la econom\'ia y promoviendo la aparición de nuevos modelos de negocio, productos y servicios y facilitando la creación de nuevas empresas y empleo.
+
+Estas econom\'ias de escala también favorecen la sostenibilidad de las empresas de nueva creación que pueden dedicar todos sus esfuerzos a su negocio y reducir el riesgo de "morir de \'exito"\hspace{0.1cm}por no poder escalar adecuadamente ante situaciones de demanda superior a las expectativas. Es evidente que esta ventaja resulta de especial trascendencia para las pequeñas y medianas empresas.
+
+Adicionalmente, la mayor eficiencia en el uso de la infraestructura TI permite ahorros energ\'eticos significativos con la consiguiente mejora en el impacto medioambiental, añadiendo a los atractivos de las tecnolog\'ias cloud computing el de ser respetuosas con el medio ambiente
+
+\end{justify}
+\newpage
+\subsection{Ventajas para las administraciones p\'ublicas}
+\begin{justify}
+Una administraci\'on p\'ublica es similar en muchos aspectos a una empresa privada, ya que ambas lo que buscan es prestar servicios, gestionar recursos, relacionarse con los proveedores, etc. Entonces, es lógico pensar que estas entidades tambi\'en pueden optar por una soluci\'on cloud para desempeñar su actividad y as\'i beneficiarse de las ventajas que ofrece esta tecnolog\'ia.
+
+Adem\'as de las ventajas obvias que este paradigma aporta a este tipo de entidades, tales como el ahorro en costes tecnol\'ogicos, la flexibilidad y la escalabilidad, el ahorro energ\'etico, existen otras muchas ventajas espec\'ificas para las administraciones p\'ublicas:
+				\begin{itemize}
+						\item{}Facilita las tareas de soporte tecnol\'ogico intensivo, ya que es el proveedor el que se encarga de esto y por lo tanto no se incurre en grandes gastos en este aspecto.
+						\item{}Generalizaci\'on de todos los servicios transversales de la Administraci\'on y por lo tanto un aprovechamiento y reutilizaci\'on de las infraestructuras tecnol\'ogicas.
+						\item{}Modernizaci\'on de entidades pequeñas, locales o municipales, que no disponen
+de recursos necesarios para modernizar sus procesos y equipos de la forma tradicional.
+						\item{}Investigaci\'on y colaboraci\'on en entidades con car\'acter educativo, tales como universidades, fundaciones, centros de investigaci\'on, etc. Incluso la cooperaci\'on entre estos centros.
+				\end{itemize}
+\end{justify}
+\newpage
+\subsection{Ventajas para la investigaci\'on cient\'ifica}
+\begin{justify}
+Es totalmente esencial que exista un ambiente de colaboraci\'on e interoperabilidad entre entidades dedicadas a la investigaci\'on, adem\'as de la existencia de tecnolog\'ias avanzadas, por lo que la nube, tanto privada como p\'ublica, puede favorecer en muchos aspectos al desarrollo de estas actividades.
+Algunas de las ventajas m\'as notables del cloud computing en estas \'areas son las siguientes:
+				\begin{itemize}
+						\item{}Plataformas de colaboraci\'on entre entidades, de manera que la realizaci\'on de investigaciones y proyectos de forma conjunta es mucho m\'as r\'apida y eficaz.
+						\item{}Estandarizaci\'on de sistemas, procesos y datos entre empresas que participan
+en el mismo proyecto.
+						\item{}Disposici\'on de entornos grandes e intensivos de procesamiento de datos, de manera que las tareas se realicen m\'as ágilmente y ahorrando en costes.
+				\end{itemize}
+\end{justify}
+\newpage
+\subsection{Ventajas para los ciudadanos}
+\begin{justify}
+Gracias a la tecnolog\'ia cloud ahora es posible acceder a la informaci\'on desde cualquier localizaci\'on.Las caracter\'isticas de este paradigma no son visibles para los usuarios, pero gracias a ellas, son capaces de acceder a gran variedad de servicios de forma gratuita o a precios muy bajos y lo m\'as importante, sin necesidad de disponer de equipos especializados para ello. Algunos de estos servicios más t\'ipicos y conocidos son los gestores de correo electr\'onico, buscadores, enciclopedias, \'albumes de fotograf\'ias, etc.
+Entre las principales ventajas para los ciudadanos, que aporta la computaci\'on cloud tenemos:
+				\begin{itemize}
+						\item{}Amplia oferta de servicios y productos tecnol\'ogicos similares, debido a la competitividad existente, que permite a los ciudadanos poder elegir entre las soluciones que le parecen m\'as estables, econ\'omicas y seguras.
+						\item{}Variedad en los servicios disponibles para que los ciudadanos realicen sus tareas cotidianas, desde ocio, hasta trabajo, gesti\'on del hogar, educaci\'on, etc. Gracias a los dispositivos m\'oviles, la utilizaci\'on de estos servicios es mucho m\'as sencilla.
+						\item{}Los ciudadanos pueden acceder a un mayor n\'umero de servicios, gracias a la administración electr\'onica. Lo hacen a trav\'es de Internet y de esta forma pueden realizar de manera m\'as sencilla, \'agil y efectiva muchos tr\'amites de la administraci\'on.
+						\item{}Disponibilidad de un "gobierno abierto"\hspace{0.1cm}que permita que los ciudadanos puedan acceder a la informaci\'on sobre las actividades realizadas por el gobierno, sus gastos, datos que genera, etc. Además de fomentar la participaci\'on ciudadana para diseñar pol\'iticas p\'ublicas.
+						\item{}Las redes sociales permiten que los ciudadanos compartan experiencias, conocimientos, que hagan negocios o que demanden bienes y servicios.
+				\end{itemize}
+\end{justify}
+\newpage
+\section{Desventajas}
+\begin{justify}
+Junto a los beneficios también existen ciertas desventajas o riesgos expuestos por los
+detractores de esta tecnología y que nos recomiendan no confiar toda la información de nuestra empresa a la Nube.
+Entre las principales desventajas tenemos:
+				\begin{itemize}
+						\item{}
+				\end{itemize}
+\end{justify}
+\newpage
+\section{Retos}
+\subsection{Disponibilidad del servicio}
+\subsection{Restricciones geogr\'aficas}
+\subsection{Seguridad y privacidad de datos}
+\subsection{Amortizaci\'on tecnol\'ogica}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%% CAPITULO 3 %%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \vspace*{5em}
 \chapter{TITULO DEL CAPITULO 3}
@@ -254,7 +436,7 @@ Estas son algunas de las empresas que  desarrollan sus productos con Microsoft A
 	A continuación se presentarán  las diferentes que empresas o instituci\'on que aplicaron las buenas pr\'acticas en la implementaci\'on de diferentes soluciones cloud (Tabla \ref{tablaEmpresas}) , casos pertenecientes a diferentes ramas, actividad económica, administración publica, etc.
 	\end{justify}
 
-	\begin{table}%%%[h]
+	\begin{table}[h]
 		\label{tablaEmpresas}
 		\centering
 		\caption{Casos de \'Exito implementando Cloud Computing}
@@ -316,7 +498,7 @@ Estas son algunas de las empresas que  desarrollan sus productos con Microsoft A
 {\bf{\large{\underline{CONCLUSIONES}}}}
 \end{center}
 \begin{justify}
-Holaque hace como esta muy bien esxop me legr qurbfgs tu vida hace triempo bla bla bla bla bla xd xd xd d bla bla blan
+Podemos concluir muchas cosas v:
 \end{justify}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 

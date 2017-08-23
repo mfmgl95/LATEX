@@ -5,10 +5,6 @@ Akami (2015).
 \newblock Empresas de cloud computing.
 \newblock [Web; accedido el 23-07-2017].
 
-\bibitem[Alberto et~al., 2012]{Ferrari}
-Alberto, U., Annie, F., David, B., and Elena, V. (2012).
-\newblock {\em Cloud Computing: Retos y Oportunidades}.
-
 \bibitem[Amazon, 2015]{awscasos}
 Amazon (2015).
 \newblock Éxito de clientes de aws.
@@ -29,6 +25,16 @@ Beimar-Alberto, L.~V. and Mario-Armando, R.~M. (2014).
 \newblock Recomendaciones para contratar servicios en la 'nube'.
 \newblock {\em Faculta de Ingeniería}, 23(37).
 
+\bibitem[Bhowmik, 2017]{sandeep}
+Bhowmik, S. (2017).
+\newblock {\em Cloud Computing}.
+\newblock Cambridge University Press, United Kingdom.
+
+\bibitem[Borko and Armando, 2010]{handbook}
+Borko, F. and Armando, E. (2010).
+\newblock {\em Handbook of Cloud Computing}.
+\newblock Springer Science \& Business Media, Spring Street, New York.
+
 \bibitem[Brian, 2017]{google_cloud}
 Brian, J. (2017).
 \newblock Las 7 ventajas principales de escoger google cloud hosting.
@@ -43,5 +49,15 @@ Miche, B.-H. (2015).
 \newblock Google compute engine uses live migration technology to service
   infrastructure without application downtime.
 \newblock [Web; accedido el 22-07-2017].
+
+\bibitem[Oscar, 2011]{oscarAvilaMejia}
+Oscar, v.~M. (2011).
+\newblock Computación en la nube.
+\newblock {\em Departamento de Ingeniería Eléctrica UAM-I}, pages 46--47.
+
+\bibitem[TRATECNO, 2015]{tratecno}
+TRATECNO (2015).
+\newblock Clasificación – agentes intervinientes en el negocio.
+\newblock Accessed: 2017-08-22.
 
 \end{thebibliography}
