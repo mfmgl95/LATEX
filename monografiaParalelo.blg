@@ -1,7 +1,6 @@
 This is BibTeX, Version 0.99dThe top-level auxiliary file: monografiaParalelo.aux
 The style file: apalike.bst
-I found no \bibdata command---while reading file monografiaParalelo.aux
-Warning--I didn't find a database entry for "handbook"
-Warning--I didn't find a database entry for "tratecno"
-Warning--I didn't find a database entry for "oscarAvilaMejia"
-(There was 1 error message)
+Database file #1: Bibliografia.bib
+Warning--to sort, need author or key in tratecno
+Warning--empty year in tratecno
+(There were 2 warnings)
