@@ -20,16 +20,16 @@
 \contentsline {section}{\numberline {2.1}Ventajas}{7}
 \contentsline {subsection}{\numberline {2.1.1}Ventajas para las empresas}{8}
 \contentsline {subsection}{\numberline {2.1.2}Ventajas para la economia}{10}
-\contentsline {subsection}{\numberline {2.1.3}Ventajas para las administraciones pu\'blicas}{10}
-\contentsline {subsection}{\numberline {2.1.4}Ventajas para la investigacio\'n cienti\'fica}{10}
+\contentsline {subsection}{\numberline {2.1.3}Ventajas para las administraciones p\'ublicas}{10}
+\contentsline {subsection}{\numberline {2.1.4}Ventajas para la investigaci\'on cient\'ifica}{10}
 \contentsline {subsection}{\numberline {2.1.5}Ventajas para los ciudadanos}{10}
-\contentsline {subsection}{\numberline {2.1.6}Ventajas para la educacio\'n}{10}
+\contentsline {subsection}{\numberline {2.1.6}Ventajas para la educaci\'on}{10}
 \contentsline {section}{\numberline {2.2}Desventajas}{10}
 \contentsline {section}{\numberline {2.3}Retos}{10}
 \contentsline {subsection}{\numberline {2.3.1}Disponibilidad del servicio}{10}
-\contentsline {subsection}{\numberline {2.3.2}Restricciones geogra\'ficas}{10}
+\contentsline {subsection}{\numberline {2.3.2}Restricciones geogr\'aficas}{10}
 \contentsline {subsection}{\numberline {2.3.3}Seguridad y privacidad de datos}{10}
-\contentsline {subsection}{\numberline {2.3.4}Amortizacio\'n tecnolo\'gica}{10}
+\contentsline {subsection}{\numberline {2.3.4}Amortizaci\'on tecnol\'ogica}{10}
 \contentsline {chapter}{\numberline {3}TITULO DEL CAPITULO 3}{11}
 \contentsline {chapter}{\numberline {4}TITULO DEL CAPITULO 4}{12}
 \contentsline {chapter}{Conclusiones}{13}

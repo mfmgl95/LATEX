@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (MiKTeX 2.9.6350 64-bit) (preloaded format=xelatex 2017.7.24)  23 AUG 2017 12:45
+This is XeTeX, Version 3.14159265-2.6-0.99998 (MiKTeX 2.9.6350 64-bit) (preloaded format=xelatex 2017.7.24)  23 AUG 2017 13:01
 entering extended mode
 **./monografiaParalelo.tex
 (monografiaParalelo.tex
@@ -332,9 +332,6 @@ LaTeX Warning: Citation `sandeep' on page 5 undefined on input line 195.
 
 LaTeX Warning: Citation `tratecno' on page 5 undefined on input line 201.
 
-
-LaTeX Warning: Reference `fig:agentesintervinientes' on page 5 undefined on input line 201.
-
 File: agentesintervinientes.png Graphic file (type QTm)
 <use  "agentesintervinientes.png" >
 
@@ -365,21 +362,18 @@ LaTeX Info: Redefining \% on input line 7.
 
 LaTeX Warning: There were undefined references.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
  )
 (\end occurred inside a group at level 1)
 
 ### semi simple group (level 1) entered at line 31 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 3098 strings out of 427834
- 40636 string characters out of 3148501
- 119528 words of memory out of 3000000
- 7019 multiletter control sequences out of 15000+200000
+ 3092 strings out of 427834
+ 40594 string characters out of 3148501
+ 119538 words of memory out of 3000000
+ 7013 multiletter control sequences out of 15000+200000
  27704 words of font info for 31 fonts, out of 3000000 for 9000
  1328 hyphenation exceptions out of 8191
- 27i,7n,31p,632b,476s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 27i,7n,31p,719b,473s stack positions out of 5000i,500n,10000p,200000b,50000s
 
 Output written on monografiaParalelo.pdf (20 pages).
