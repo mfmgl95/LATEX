@@ -407,13 +407,14 @@ Estas son algunas de las empresas que  desarrollan sus productos con Google Clou
 \begin{justify}
 Un gran punto a favor que tiene hoy en día Google Cloud Plataform es que permite la migraci\'on en vivo de m\'aquinas Virtuales, funcionalidad que ni Azure ni AWS tienen. En la siguiente figura se detallan los  pasos de alto nivel involucrados en una migración de VM en vivo (Figura \ref{migracion}).
 \end{justify}
-\begin{figure}[h!]\label{migracion}
+\begin{figure}[h!]
 \begin{center}
 \includegraphics[scale=0.7]{migracion}
 \end{center}
 \begin{center}
 \vskip -0.5cm
 \caption{\small{ Pasos de alto nivel involucrados en una migraci\'on de VM en vivo}}
+\label{migracion}
 {\small{Fuente: \cite{google_cloud_migration}}}
 \end{center}
 \end{figure}
@@ -436,10 +437,10 @@ Estas son algunas de las empresas que  desarrollan sus productos con Microsoft A
 	A continuación se presentarán  las diferentes que empresas o instituci\'on que aplicaron las buenas pr\'acticas en la implementaci\'on de diferentes soluciones cloud (Tabla \ref{tablaEmpresas}) , casos pertenecientes a diferentes ramas, actividad económica, administración publica, etc.
 	\end{justify}
 
-	\begin{table}[h]
-		\label{tablaEmpresas}
+	\begin{table}[ht]		
 		\centering
 		\caption{Casos de \'Exito implementando Cloud Computing}
+		\label{tablaEmpresas}
 		\begin{tabular}{|p{4.2cm} |p{2.3cm} |p{2.5cm} |p{4cm}|} \hline
 			\bf{Sector} & \bf{Proveedor} & \bf{Modelo de Negocio} & \bf{Empresa o Institución} 
 			\\ \hline \hline
@@ -477,12 +478,12 @@ Estas son algunas de las empresas que  desarrollan sus productos con Microsoft A
 \section{Diferencias entre Empresas que ofrecen Cloud Computing}
 	\begin{justify}
 	Seg\'un \cite{Akami} las empresas de Cloud Computing se diferencian seg\'un:
-	\begin{itemize}
+	\begin{enumerate}[label=\alph*)]
 		\item \textbf{Tipo de servicio ofrecido: } En la nube existen diferentes tipos de servicio (v\'ease cap. \ref{cap1}. La entidad que se quiera contratar debe definir muy bien cu\'ales ser\'an los Acuerdos de Nivel de Servicio (SLA) que mejor se ajusten a las necesidades.
 		\item \textbf{La escala y resistencia de la arquitectura:} Las mejores empresas de cloud computing tienen varios centros de datos dispersos geográficamente, lo que garantiza la disponibilidad ininterrumpida del servicio para sus cliente.
 		\item \textbf{Calidad del componente de autoservicio:} La administraci\'on  de los servicios en la nube se realiza por un portal web, por ello, el portal debe contar con ciertas normas y permitir el control f\'acil del servicio.
 		\item \textbf{Longevidad y experiencia:} Seg\'un \cite{CristianCA} en el 2012  el modelo de cloud computing se encontraba en etapa de desarrollo, por ese motivo existían pocas empresas que apostaban por el modelo; sin embargo,  en la actualidad existen cada día mas empresas ofreciendo este modelo, este es el motivo por el que cual al momento de querer adquirir los servicios que ofrece se debe tener en cuenta la experiencia, pues muchas son nuevas y no han sido probadas.
-	\end{itemize}
+	\end{enumerate}
 	Si desea conocer algunas recomendaciones para contratar servicios en la nube revise el documento de \cite{Beimar}
 \end{justify}
 
