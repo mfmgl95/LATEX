@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (MiKTeX 2.9.6350 64-bit) (preloaded format=xelatex 2017.7.24)  23 AUG 2017 13:01
+This is XeTeX, Version 3.14159265-2.6-0.99998 (MiKTeX 2.9.6350 64-bit) (preloaded format=xelatex 2017.7.24)  23 AUG 2017 13:18
 entering extended mode
 **./monografiaParalelo.tex
 (monografiaParalelo.tex
@@ -280,24 +280,49 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <14.4> on input line 88.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 88.
- [1] [2] (monografiaParalelo.toc)
+ [1] [2] (monografiaParalelo.toc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 8.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 8.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 8.
+ [3
+
+])
 \tf@toc=\write3
 \openout3 = `monografiaParalelo.toc'.
 
- [3
+ [4]
+(monografiaParalelo.lof
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
 
-]
-(monografiaParalelo.lof)
+
+LaTeX Warning: Citation `handbook' on page V undefined on input line 3.
+
+
+LaTeX Warning: Citation `handbook' on page V undefined on input line 4.
+
+
+LaTeX Warning: Citation `tratecno' on page V undefined on input line 5.
+
+)
 \tf@lof=\write4
 \openout4 = `monografiaParalelo.lof'.
 
- [4
+ [5
 
-] (monografiaParalelo.lot)
+] (monografiaParalelo.lot
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+)
 \tf@lot=\write5
 \openout5 = `monografiaParalelo.lot'.
 
- [5
+ [6
 
 ]
 Capítulo 1.
@@ -325,55 +350,4 @@ File: cloudtipos.png Graphic file (type QTm)
 
 LaTeX Warning: Citation `handbook' on page 4 undefined on input line 187.
 
-[4]
-
-LaTeX Warning: Citation `sandeep' on page 5 undefined on input line 195.
-
-
-LaTeX Warning: Citation `tratecno' on page 5 undefined on input line 201.
-
-File: agentesintervinientes.png Graphic file (type QTm)
-<use  "agentesintervinientes.png" >
-
-LaTeX Warning: Citation `tratecno' on page 5 undefined on input line 205.
-
-[5] [6]
-Capítulo 2.
-[7
-
-] [8] [9] [10]
-Capítulo 3.
-[11
-
-]
-Capítulo 4.
-[12
-
-] (monografiaParalelo.bbl [13]
-
-LaTeX Warning: Empty `thebibliography' environment on input line 3.
-
-) [14
-
-] (monografiaParalelo.aux
-LaTeX Info: Redefining \. on input line 7.
-LaTeX Info: Redefining \% on input line 7.
-)
-
-LaTeX Warning: There were undefined references.
-
- )
-(\end occurred inside a group at level 1)
-
-### semi simple group (level 1) entered at line 31 (\begingroup)
-### bottom level 
-Here is how much of TeX's memory you used:
- 3092 strings out of 427834
- 40594 string characters out of 3148501
- 119538 words of memory out of 3000000
- 7013 multiletter control sequences out of 15000+200000
- 27704 words of font info for 31 fonts, out of 3000000 for 9000
- 1328 hyphenation exceptions out of 8191
- 27i,7n,31p,719b,473s stack positions out of 5000i,500n,10000p,200000b,50000s
-
-Output written on monografiaParalelo.pdf (20 pages).
+[4
