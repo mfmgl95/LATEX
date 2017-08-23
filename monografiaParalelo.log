@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.7.18)  23 AUG 2017 08:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.7.18)  23 AUG 2017 14:52
 entering extended mode
 **./monografiaParalelo.tex
 (monografiaParalelo.tex
@@ -540,19 +540,19 @@ LaTeX Info: Redefining \% on input line 7.
 )
 \openout1 = `monografiaParalelo.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Try loading font information for T1+ptm on input line 28.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Try loading font information for T1+ptm on input line 29.
  ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\t1ptm.fd"
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 )
@@ -590,8 +590,8 @@ File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \. on input line 28.
-LaTeX Info: Redefining \% on input line 28.
+LaTeX Info: Redefining \. on input line 29.
+LaTeX Info: Redefining \% on input line 29.
 
 (C:\Users\GLizarragaMF\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mki
 i
@@ -650,34 +650,34 @@ G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
 ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 28.
+LaTeX Info: Redefining \selectfont on input line 29.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 34.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 35.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <18> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 34.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 35.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <16> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 36.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 37.
 
 <unt.jpg, id=1, 506.89375pt x 409.53pt>
 File: unt.jpg Graphic file (type jpg)
  <use unt.jpg>
-Package pdftex.def Info: unt.jpg used on input line 44.
+Package pdftex.def Info: unt.jpg used on input line 45.
 (pdftex.def)             Requested size: 132.30666pt x 106.88771pt.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <19> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 51.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 52.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <17> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 55.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 56.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 76.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 77.
  [1
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <./unt.jpg>]
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 88.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 89.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 88.
+(Font)              <14.4> on input line 89.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 88.
+(Font)              <7> on input line 89.
  [1] [2] (monografiaParalelo.toc
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
@@ -727,50 +727,59 @@ Cap\'{\i }tulo 3.
 ]
 Cap\'{\i }tulo 4.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <17.28> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 161.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 162.
+[4
 
-Underfull \hbox (badness 10000) in paragraph at lines 174--174
+] <aws_paises.png, id=36, 464.4853pt x 283.81032pt>
+File: aws_paises.png Graphic file (type png)
+ <use aws_paises.png>
+Package pdftex.def Info: aws_paises.png used on input line 179.
+(pdftex.def)             Requested size: 371.58875pt x 227.04855pt.
+
+[5 <./aws_paises.png>] <google_cloud.png, id=42, 578.16pt x 260.47313pt>
+File: google_cloud.png Graphic file (type png)
+
+<use google_cloud.png>
+Package pdftex.def Info: google_cloud.png used on input line 196.
+(pdftex.def)             Requested size: 346.89867pt x 156.28508pt.
+ <encuesta.png, id=43, 578.16pt x 289.83281pt>
+File: encuesta.png Graphic file (type png)
+
+<use encuesta.png>
+Package pdftex.def Info: encuesta.png used on input line 209.
+(pdftex.def)             Requested size: 231.2599pt x 115.93106pt.
+ [6 <./google_cloud.png> <./encuesta.png>]
+<migracion.jpg, id=49, 578.16pt x 323.70938pt>
+File: migracion.jpg Graphic file (type jpg)
+ <use migracion.jpg>
+Package pdftex.def Info: migracion.jpg used on input line 230.
+(pdftex.def)             Requested size: 404.70924pt x 226.59502pt.
+ [7 <./migracion.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 262--262
 []\T1/ptm/b/n/12 Modelo de
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 178--178
+Underfull \hbox (badness 10000) in paragraph at lines 266--266
 []\T1/ptm/m/n/12 CIPSA y
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 178--178
+Underfull \hbox (badness 10000) in paragraph at lines 266--266
 []\T1/ptm/m/n/12 SaaS (cloud
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 184--184
-[]\T1/ptm/m/n/12 Annova y
+Underfull \hbox (badness 6125) in paragraph at lines 280--280
+[]\T1/ptm/m/n/12 Ivestigación, desa-rro-llo
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 190--190
-[]\T1/ptm/m/n/12 Fresh
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 192--192
+Underfull \hbox (badness 10000) in paragraph at lines 280--280
 []\T1/ptm/m/n/12 Windows
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 196--196
-[]\T1/ptm/m/n/12 NTS y
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 196--196
-\T1/ptm/m/n/12 Sa-les-for-
- []
-
-[4
-
-] [5] [6] (monografiaParalelo.bbl [7]) [8
+[8] [9] [10] (monografiaParalelo.bbl [11]) [12
 
 ] (monografiaParalelo.aux
 LaTeX Info: Redefining \. on input line 7.
@@ -778,23 +787,23 @@ LaTeX Info: Redefining \% on input line 7.
 ) )
 (\end occurred inside a group at level 1)
 
-### semi simple group (level 1) entered at line 31 (\begingroup)
+### semi simple group (level 1) entered at line 32 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 4399 strings out of 493323
- 58209 string characters out of 3139045
- 140278 words of memory out of 3000000
- 7828 multiletter control sequences out of 15000+200000
+ 4437 strings out of 493323
+ 58883 string characters out of 3139045
+ 142422 words of memory out of 3000000
+ 7862 multiletter control sequences out of 15000+200000
  44779 words of font info for 53 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 39i,10n,31p,519b,467s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 39i,10n,31p,659b,411s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Pr
 ogram Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTe
 X 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
 /urw/times/utmri8a.pfb>
-Output written on monografiaParalelo.pdf (14 pages, 125944 bytes).
+Output written on monografiaParalelo.pdf (18 pages, 522759 bytes).
 PDF statistics:
- 62 PDF objects out of 1000 (max. 8388607)
+ 82 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 26 words of extra memory for PDF output out of 10000 (max. 10000000)
 

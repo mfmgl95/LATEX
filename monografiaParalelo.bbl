@@ -9,13 +9,39 @@ Akami (2015).
 Alberto, U., Annie, F., David, B., and Elena, V. (2012).
 \newblock {\em Cloud Computing: Retos y Oportunidades}.
 
+\bibitem[Amazon, 2015]{awscasos}
+Amazon (2015).
+\newblock Éxito de clientes de aws.
+\newblock [Web; accedido el 24-07-2017].
+
+\bibitem[Amazon, 2016]{aws}
+Amazon (2016).
+\newblock Cloud computing con amazon web services.
+\newblock [Web; accedido el 23-07-2017].
+
+\bibitem[Azure, 2016]{azure_def}
+Azure (2016).
+\newblock Microsoft azure.
+\newblock [Web; accedido el 23-07-2017].
+
 \bibitem[Beimar-Alberto and Mario-Armando, 2014]{Beimar}
 Beimar-Alberto, L.~V. and Mario-Armando, R.~M. (2014).
 \newblock Recomendaciones para contratar servicios en la 'nube'.
 \newblock {\em Faculta de Ingeniería}, 23(37).
 
+\bibitem[Brian, 2017]{google_cloud}
+Brian, J. (2017).
+\newblock Las 7 ventajas principales de escoger google cloud hosting.
+\newblock [Web; accedido el 22-07-2017].
+
 \bibitem[Cristian and Deivis, 2012]{CristianCA}
 Cristian, C.~A. and Deivis, H.~Q. (2012).
 \newblock {\em Estado del arte sobre la computación en la nube}.
+
+\bibitem[Miche, 2015]{google_cloud_migration}
+Miche, B.-H. (2015).
+\newblock Google compute engine uses live migration technology to service
+  infrastructure without application downtime.
+\newblock [Web; accedido el 22-07-2017].
 
 \end{thebibliography}
