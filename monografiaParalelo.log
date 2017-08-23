@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.7.22)  23 JUL 2017 11:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.7.18)  23 AUG 2017 08:04
 entering extended mode
 **./monografiaParalelo.tex
 (monografiaParalelo.tex
@@ -59,7 +59,7 @@ Package: babel 2017/05/19 3.10 The Babel package
 *************************************
 * Local config file bblopts.cfg used
 *
-("C:\Program Files\MiKTeX 2.9\tex\latex\arabi\bblopts.cfg"
+(C:\Users\GLizarragaMF\AppData\Roaming\MiKTeX\2.9\tex\latex\arabi\bblopts.cfg
 File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
  babel
 )
@@ -431,7 +431,8 @@ Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen112
 \Gin@req@width=\dimen113
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\booktabs\booktabs.sty"
+(C:\Users\GLizarragaMF\AppData\Roaming\MiKTeX\2.9\tex\latex\booktabs\booktabs.s
+ty
 Package: booktabs 2005/04/14 v1.61803 publication quality tables
 \heavyrulewidth=\dimen114
 \lightrulewidth=\dimen115
@@ -450,6 +451,30 @@ Package: booktabs 2005/04/14 v1.61803 publication quality tables
 \@thisruleclass=\count96
 \@lastruleclass=\count97
 \@thisrulewidth=\dimen126
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\tools\longtable.sty"
+Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip43
+\LTright=\skip44
+\LTpre=\skip45
+\LTpost=\skip46
+\LTchunksize=\count98
+\LTcapwidth=\dimen127
+\LT@head=\box26
+\LT@firsthead=\box27
+\LT@foot=\box28
+\LT@lastfoot=\box29
+\LT@cols=\count99
+\LT@rows=\count100
+\c@LT@tables=\count101
+\c@LT@chunks=\count102
+\LT@p@ftn=\toks19
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\multirow\multirow.sty"
+Package: multirow 2016/11/25 v2.2 Span multiple rows of a table
+\multirow@colwidth=\skip47
+\multirow@cntb=\count103
+\multirow@dima=\skip48
+\bigstrutjot=\dimen128
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\color.sty"
 Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
@@ -459,47 +484,55 @@ File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 147.
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\setspace\setspace.sty"
+(C:\Users\GLizarragaMF\AppData\Roaming\MiKTeX\2.9\tex\latex\setspace\setspace.s
+ty
 Package: setspace 2011/12/19 v6.7a set line spacing
-)
-("C:\Program Files\MiKTeX 2.9\tex\latex\ms\ragged2e.sty"
+) (C:\Users\GLizarragaMF\AppData\Roaming\MiKTeX\2.9\tex\latex\ms\ragged2e.sty
 Package: ragged2e 2009/05/21 v2.1 ragged2e Package (MS)
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\ms\everysel.sty"
+(C:\Users\GLizarragaMF\AppData\Roaming\MiKTeX\2.9\tex\latex\ms\everysel.sty
 Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
 )
-\CenteringLeftskip=\skip43
-\RaggedLeftLeftskip=\skip44
-\RaggedRightLeftskip=\skip45
-\CenteringRightskip=\skip46
-\RaggedLeftRightskip=\skip47
-\RaggedRightRightskip=\skip48
-\CenteringParfillskip=\skip49
-\RaggedLeftParfillskip=\skip50
-\RaggedRightParfillskip=\skip51
-\JustifyingParfillskip=\skip52
-\CenteringParindent=\skip53
-\RaggedLeftParindent=\skip54
-\RaggedRightParindent=\skip55
-\JustifyingParindent=\skip56
+\CenteringLeftskip=\skip49
+\RaggedLeftLeftskip=\skip50
+\RaggedRightLeftskip=\skip51
+\CenteringRightskip=\skip52
+\RaggedLeftRightskip=\skip53
+\RaggedRightRightskip=\skip54
+\CenteringParfillskip=\skip55
+\RaggedLeftParfillskip=\skip56
+\RaggedRightParfillskip=\skip57
+\JustifyingParfillskip=\skip58
+\CenteringParindent=\skip59
+\RaggedLeftParindent=\skip60
+\RaggedRightParindent=\skip61
+\JustifyingParindent=\skip62
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\times.sty"
 Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\anyfontsize\anyfontsize.sty"
+(C:\Users\GLizarragaMF\AppData\Roaming\MiKTeX\2.9\tex\latex\anyfontsize\anyfont
+size.sty
 Package: anyfontsize 2007/11/22 anyfontsize.sty by pts
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\titlesec\titlesec.sty"
+(C:\Users\GLizarragaMF\AppData\Roaming\MiKTeX\2.9\tex\latex\titlesec\titlesec.s
+ty
 Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
-\ttl@box=\box26
-\beforetitleunit=\skip57
-\aftertitleunit=\skip58
-\ttl@plus=\dimen127
-\ttl@minus=\dimen128
-\ttl@toksa=\toks19
-\titlewidth=\dimen129
-\titlewidthlast=\dimen130
-\titlewidthfirst=\dimen131
+\ttl@box=\box30
+\beforetitleunit=\skip63
+\aftertitleunit=\skip64
+\ttl@plus=\dimen129
+\ttl@minus=\dimen130
+\ttl@toksa=\toks20
+\titlewidth=\dimen131
+\titlewidthlast=\dimen132
+\titlewidthfirst=\dimen133
+)
+(C:\Users\GLizarragaMF\AppData\Roaming\MiKTeX\2.9\tex\latex\natbib\natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip65
+\bibsep=\skip66
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count104
 )
 (monografiaParalelo.aux
 LaTeX Info: Redefining \. on input line 7.
@@ -507,19 +540,19 @@ LaTeX Info: Redefining \% on input line 7.
 )
 \openout1 = `monografiaParalelo.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Try loading font information for T1+ptm on input line 27.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Try loading font information for T1+ptm on input line 28.
  ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\t1ptm.fd"
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 )
@@ -557,21 +590,23 @@ File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \. on input line 27.
-LaTeX Info: Redefining \% on input line 27.
-("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+LaTeX Info: Redefining \. on input line 28.
+LaTeX Info: Redefining \% on input line 28.
+
+(C:\Users\GLizarragaMF\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mki
+i
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count98
-\scratchdimen=\dimen132
-\scratchbox=\box27
-\nofMPsegments=\count99
-\nofMParguments=\count100
-\everyMPshowfont=\toks20
-\MPscratchCnt=\count101
-\MPscratchDim=\dimen133
-\MPnumerator=\count102
-\makeMPintoPDFobject=\count103
-\everyMPtoPDFconversion=\toks21
+\scratchcounter=\count105
+\scratchdimen=\dimen134
+\scratchbox=\box31
+\nofMPsegments=\count106
+\nofMParguments=\count107
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count108
+\MPscratchDim=\dimen135
+\MPnumerator=\count109
+\makeMPintoPDFobject=\count110
+\everyMPtoPDFconversion=\toks22
 ) ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
 Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
 )
@@ -615,37 +650,43 @@ G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
 ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 27.
+LaTeX Info: Redefining \selectfont on input line 28.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 33.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 34.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <18> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 33.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 34.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <16> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 35.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 36.
 
 <unt.jpg, id=1, 506.89375pt x 409.53pt>
 File: unt.jpg Graphic file (type jpg)
  <use unt.jpg>
-Package pdftex.def Info: unt.jpg used on input line 43.
+Package pdftex.def Info: unt.jpg used on input line 44.
 (pdftex.def)             Requested size: 132.30666pt x 106.88771pt.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <19> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 50.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 51.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <17> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 54.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 55.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 75.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 76.
  [1
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <./unt.jpg>]
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 87.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 88.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 87.
+(Font)              <14.4> on input line 88.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 87.
+(Font)              <7> on input line 88.
  [1] [2] (monografiaParalelo.toc
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 11.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 11.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 11.
 )
 \tf@toc=\write3
 \openout3 = `monografiaParalelo.toc'.
@@ -685,41 +726,75 @@ Cap\'{\i }tulo 3.
 
 ]
 Cap\'{\i }tulo 4.
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <17.28> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 161.
+
+Underfull \hbox (badness 10000) in paragraph at lines 174--174
+[]\T1/ptm/b/n/12 Modelo de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 178--178
+[]\T1/ptm/m/n/12 CIPSA y
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 178--178
+[]\T1/ptm/m/n/12 SaaS (cloud
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 184--184
+[]\T1/ptm/m/n/12 Annova y
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 190--190
+[]\T1/ptm/m/n/12 Fresh
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 192--192
+[]\T1/ptm/m/n/12 Windows
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 196--196
+[]\T1/ptm/m/n/12 NTS y
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 196--196
+\T1/ptm/m/n/12 Sa-les-for-
+ []
+
 [4
 
-]
-! Undefined control sequence.
-l.171 ...la bla bla xd xd xd d bla bla blan \citep
-                                                  {Lamport}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+] [5] [6] (monografiaParalelo.bbl [7]) [8
 
-No file monografiaParalelo.bbl.
-[5] (monografiaParalelo.aux
+] (monografiaParalelo.aux
 LaTeX Info: Redefining \. on input line 7.
 LaTeX Info: Redefining \% on input line 7.
 ) )
 (\end occurred inside a group at level 1)
 
-### semi simple group (level 1) entered at line 30 (\begingroup)
+### semi simple group (level 1) entered at line 31 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 3877 strings out of 493323
- 51232 string characters out of 3139034
- 124146 words of memory out of 3000000
- 7329 multiletter control sequences out of 15000+200000
- 32324 words of font info for 38 fonts, out of 3000000 for 9000
+ 4399 strings out of 493323
+ 58209 string characters out of 3139045
+ 140278 words of memory out of 3000000
+ 7828 multiletter control sequences out of 15000+200000
+ 44779 words of font info for 53 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 39i,6n,31p,280b,359s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 39i,10n,31p,519b,467s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Pr
 ogram Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTe
-X 2.9/fonts/type1/urw/times/utmr8a.pfb>
-Output written on monografiaParalelo.pdf (11 pages, 103971 bytes).
+X 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
+/urw/times/utmri8a.pfb>
+Output written on monografiaParalelo.pdf (14 pages, 125944 bytes).
 PDF statistics:
- 48 PDF objects out of 1000 (max. 8388607)
+ 62 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 

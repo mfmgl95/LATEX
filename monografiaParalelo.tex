@@ -6,6 +6,7 @@
 \usepackage[T1]{fontenc}     %Salida 
 \usepackage{graphicx}        %Manejo de figuras y graficos
 \usepackage{booktabs}        %Para formar tablas
+\usepackage{longtable, multirow}        %Para formar tablas largas y multicolumnas
 \usepackage{color}           %Para usar colores
 \usepackage{setspace}        %Usado para doble espacio, espacio y medio y espacio simple (\onehalfspace  \doublespacing  \singlespace)
 \usepackage{ragged2e}
@@ -15,7 +16,7 @@
 \setcounter{secnumdepth}{3}  %Para que ponga 1.1.1.1 en subsubsecciones
 \setcounter{tocdepth}{3}     %Para que ponga subsubsecciones en el indice
 \bibliographystyle{apalike}  %Bibliografía Norma APA
-
+\usepackage{natbib}
 %                            Crear colores                      %     
 \definecolor{rosaclaro}{RGB}{247,180,180}
 
@@ -125,7 +126,7 @@ Holaque hace como esta muy bien esxop me legr qurbfgs tu vida hace triempo bla b
 %%%%%%%%%%%%%%%%%%%%%%%%%%%% CAPITULOS %%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%% CAPITULO 1 %%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \vspace*{5em}
-\chapter{TITULO DEL CAPITULO 1}
+\chapter{TITULO DEL CAPITULO 1}\label{cap1}
 \pagestyle{plain}
 \pagenumbering{arabic}
 \vspace*{-2em}
@@ -151,11 +152,70 @@ Holaque hace como esta muy bien esxop me legr qurbfgs tu vida hace triempo bla b
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%% CAPITULO 4 %%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \vspace*{5em}
-\chapter{TITULO DEL CAPITULO 4}
+\chapter{TECNOLOG\'IAS ACTUALES}
 \vspace*{-2em}
 \begin{justify}
-Holaque hace como esta muy bien esxop me legr qurbfgs tu vida hace triempo bla bla bla bla bla xd xd xd d
+\par Claramente la nube se est\'a convirtiendo en una plataforma de innovaci\'on y transformaci\'on general.
+\par Actualmente muchas empresas de todo el mundo est\'an ofreciendo una amplia gama de servicios en la nube, la abundancia puede ser abrumadora.
+ 
+\section{Empresas que brindan servicios de Cloud}
+\subsection{Amazon.com}
+\subsection{Google Inc}
+\subsection{IBM}
+\subsection{Azure}
+\subsection{Spotify}
+
+\section{Casos de Implementación}
+\begin{center}
+\begin{table}[ht]
+\centering
+\caption{Casos de \'Exito implementando Cloud Computing}
+\begin{tabular}{|p{4.5cm} |p{2cm} |p{2.5cm} |p{4cm}|} \hline
+\bf{Sector} & \bf{Proveedor} & \bf{Modelo de Negocio} & \bf{Empresa o Institución} 
+\\ \hline
+Adminitraci\'on P\'ublica & Microsoft & SaaS &  Generalitat de Catalunya 
+\\ \cline{2-4}
+ & CIPSA y REGTSA & SaaS (cloud privada) & CIPSA y REGTSA  
+\\ \hline
+Audio Visuales  & Spotify & SaaS & Spotify
+\\ \hline
+Correo electr\'onico & Amazon & PaaS / IaasS & Amazon
+\\ \hline
+Inform\'atica y telecomunicaciones & Annova y Pixelware & PaaS & Proyecto PymeCloud 
+\\ \cline{2-4}
+ & EyeOS & PaaS & EyeOS  
+\\ \cline{2-4}
+ & Arsys & SaaS / PaaS / IaaS & EyeOS  
+\\  \cline{2-4}
+ & Fresh Books & SaaS & Fresh Books  
+\\  \hline
+Ivestigaci\'on, desarrollo y manufactura & Windows Azure & PaaS & 3M 
+\\ \hline
+Ivestigaci\'on Biom\'edica & VORTAL & SaaS & Organismo P\'ublico de España 
+\\ \hline
+Medios de Comuniaci\'on & NTS y Salesforce.com & SaaS & Grupo Vocento \\ \hline
+Transporte & Estudio Cero & SaaS & Estudio Cero\\ \hline 
+\end{tabular}
+\vskip 0.2cm
+\begin{center}
+{\small{Fuente: Elaboraci\'on Propia - \cite{Ferrari}.}}
+\end{center}
+\end{table}
+\end{center}
+\section{Diferencias entre Empresas que ofrecen Cloud Computing}
+ Seg\'un \cite{Akami} las empresas de Cloud Computing se diferencian seg\'un:
+\begin{itemize}
+	\item \textbf{Tipo de servicio ofrecido: } En la nube existen diferentes tipos de servicio (v\'ease cap. \ref{cap1}. La entidad que se quiera contratar debe definir muy bien cu\'ales ser\'an los Acuerdos de Nivel de Servicio (SLA) que mejor se ajusten a las necesidades.
+	\item \textbf{La escala y resistencia de la arquitectura:} Las mejores empresas de cloud computing tienen varios centros de datos dispersos geográficamente, lo que garantiza la disponibilidad ininterrumpida del servicio para sus cliente.
+	\item \textbf{Calidad del componente de autoservicio:} La administraci\'on  de los servicios en la nube se realiza por un portal web, por ello, el portal debe contar con ciertas normas y permitir el control f\'acil del servicio.
+	\item \textbf{Longevidad y experiencia:} Seg\'un \cite{CristianCA} en el 2012  el modelo de cloud computing se encontraba en etapa de desarrollo, por ese motivo existían pocas empresas que apostaban por el modelo; sin embargo,  en la actualidad existen cada día mas empresas ofreciendo este modelo, este es el motivo por el que cual al momento de querer adquirir los servicios que ofrece se debe tener en cuenta la experiencia, pues muchas son nuevas y no han sido probadas.
+\end{itemize}
+\par Si desea conocer algunas recomendaciones para contratar servicios en la nube revise el documento de \cite{Beimar}
+
+
+
 \end{justify}
+
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -168,7 +228,7 @@ Holaque hace como esta muy bien esxop me legr qurbfgs tu vida hace triempo bla b
 {\bf{\large{\underline{CONCLUSIONES}}}}
 \end{center}
 \begin{justify}
-Holaque hace como esta muy bien esxop me legr qurbfgs tu vida hace triempo bla bla bla bla bla xd xd xd d bla bla blan \citep{Lamport}
+Holaque hace como esta muy bien esxop me legr qurbfgs tu vida hace triempo bla bla bla bla bla xd xd xd d bla bla blan
 \end{justify}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -177,7 +237,7 @@ Holaque hace como esta muy bien esxop me legr qurbfgs tu vida hace triempo bla b
 %%%%%%%%%%%%%%%%%%%%%%%%%%%% BIBLIOGRAFIA %%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \addcontentsline{toc}{chapter}{Bibliograf\'ia}
 \vspace*{6em}
-	\bibliography{Bibliografia}
+ \bibliography{Bibliografia}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
