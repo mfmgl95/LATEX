@@ -23,14 +23,13 @@
 \contentsline {subsection}{\numberline {2.1.3}Ventajas para las administraciones p\'ublicas}{11}
 \contentsline {subsection}{\numberline {2.1.4}Ventajas para la investigaci\'on cient\'ifica}{12}
 \contentsline {subsection}{\numberline {2.1.5}Ventajas para los ciudadanos}{13}
-\contentsline {subsection}{\numberline {2.1.6}Ventajas para la educaci\'on}{14}
-\contentsline {section}{\numberline {2.2}Desventajas}{15}
-\contentsline {section}{\numberline {2.3}Retos}{16}
-\contentsline {subsection}{\numberline {2.3.1}Disponibilidad del servicio}{16}
-\contentsline {subsection}{\numberline {2.3.2}Restricciones geogr\'aficas}{16}
-\contentsline {subsection}{\numberline {2.3.3}Seguridad y privacidad de datos}{16}
-\contentsline {subsection}{\numberline {2.3.4}Amortizaci\'on tecnol\'ogica}{16}
-\contentsline {chapter}{\numberline {3}TITULO DEL CAPITULO 3}{17}
-\contentsline {chapter}{\numberline {4}TITULO DEL CAPITULO 4}{18}
-\contentsline {chapter}{Conclusiones}{19}
-\contentsline {chapter}{Bibliograf\'ia}{19}
+\contentsline {section}{\numberline {2.2}Desventajas}{14}
+\contentsline {section}{\numberline {2.3}Retos}{15}
+\contentsline {subsection}{\numberline {2.3.1}Disponibilidad del servicio}{15}
+\contentsline {subsection}{\numberline {2.3.2}Restricciones geogr\'aficas}{15}
+\contentsline {subsection}{\numberline {2.3.3}Seguridad y privacidad de datos}{15}
+\contentsline {subsection}{\numberline {2.3.4}Amortizaci\'on tecnol\'ogica}{15}
+\contentsline {chapter}{\numberline {3}TITULO DEL CAPITULO 3}{16}
+\contentsline {chapter}{\numberline {4}TITULO DEL CAPITULO 4}{17}
+\contentsline {chapter}{Conclusiones}{18}
+\contentsline {chapter}{Bibliograf\'ia}{18}
