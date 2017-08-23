@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (MiKTeX 2.9.6350 64-bit) (preloaded format=xelatex 2017.7.24)  23 AUG 2017 17:01
+This is XeTeX, Version 3.14159265-2.6-0.99998 (MiKTeX 2.9.6350 64-bit) (preloaded format=xelatex 2017.7.24)  23 AUG 2017 17:27
 entering extended mode
 **./monografiaParalelo.tex
 (monografiaParalelo.tex
@@ -332,6 +332,16 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (monografiaParalelo.lof
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
+
+
+Package natbib Warning: Citation `handbook' on page V undefined on input line 3.
+
+
+Package natbib Warning: Citation `handbook' on page V undefined on input line 4.
+
+
+Package natbib Warning: Citation `tratecno' on page V undefined on input line 5.
+
 )
 \tf@lof=\write4
 \openout4 = `monografiaParalelo.lof'.
@@ -354,44 +364,66 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <17.28> not available
 [1
 
 ]
+
+Package natbib Warning: Citation `oscarAvilaMejia' on page 2 undefined on input line 156.
+
+
 Overfull \hbox (0.2666pt too wide) in paragraph at lines 162--163
 []\T1/ptm/m/n/12 Disponibilidad: No se ha-ce ne-ce-sa-rio guar-dar los do-cu-men-tos del usua-rio en su compu-
  []
 
 File: cloudcapas.png Graphic file (type QTm)
-<use  "cloudcapas.png" > [2] [3]
+<use  "cloudcapas.png" >
+
+Package natbib Warning: Citation `handbook' on page 2 undefined on input line 172.
+
+[2] [3]
 File: cloudtipos.png Graphic file (type QTm)
- <use  "cloudtipos.png" > [4]
+ <use  "cloudtipos.png" >
+
+Package natbib Warning: Citation `handbook' on page 4 undefined on input line 190.
+
+[4]
+
+Package natbib Warning: Citation `sandeep' on page 5 undefined on input line 198.
+
+
+Package natbib Warning: Citation `tratecno' on page 5 undefined on input line 204.
+
 File: agentesintervinientes.png Graphic file (type QTm)
- <use  "agentesintervinientes.png" > [5] [6]
+<use  "agentesintervinientes.png" >
+
+Package natbib Warning: Citation `tratecno' on page 5 undefined on input line 208.
+
+[5] [6]
 Capítulo 2.
 [7
 
-] [8] [9] [10] [11] [12] [13] [14] [15] [16] [17]
+] [8] [9] [10] [11] [12] [13] [14] [15] [16] [17] [18]
 Capítulo 3.
 File: perfilEncuesta.png Graphic file (type QTm)
-<use  "perfilEncuesta.png" > [18
+<use  "perfilEncuesta.png" > [19
 
 ]
 File: empresasYNubes.png Graphic file (type QTm)
- <use  "empresasYNubes.png" > [19]
+ <use  "empresasYNubes.png" > [20]
 File: adopcionDeLaNube.png Graphic file (type QTm)
  <use  "adopcionDeLaNube.png" >
 File: utlizacionDeNubesHibridas.png Graphic file (type QTm)
 
 <use  "utlizacionDeNubesHibridas.png" >
 File: planesImplementacionNube.png Graphic file (type QTm)
- <use  "planesImplementacionNube.png" > [20]
+ <use  "planesImplementacionNube.png" > [21]
 File: clasificacionOrganizaciones.png Graphic file (type QTm)
 
-<use  "clasificacionOrganizaciones.png" > [21]
+<use  "clasificacionOrganizaciones.png" > [22]
 File: madurezNube.png Graphic file (type QTm)
  <use  "madurezNube.png" >
 File: ventajasMadurezNube.png Graphic file (type QTm)
- <use  "ventajasMadurezNube.png" > [22]
+ <use  "ventajasMadurezNube.png" > [23]
 File: computacionCognitiva.png Graphic file (type QTm)
 
-<use  "computacionCognitiva.png" > [23]
+<use  "computacionCognitiva.png" > [24]
 File: blockchain.png Graphic file (type QTm)
  <use  "blockchain.png" >
 File: seguridad.png Graphic file (type QTm)
@@ -400,72 +432,131 @@ Missing character: There is no “ in font ptmr8t!
 Missing character: There is no ” in font ptmr8t!
 Missing character: There is no “ in font ptmr8t!
 Missing character: There is no ” in font ptmr8t!
- [24]
+ [25]
 File: serverless.png Graphic file (type QTm)
  <use  "serverless.png" >
-[25]
+[26]
 File: innovacion.png Graphic file (type QTm)
- <use  "innovacion.png" > [26]
+ <use  "innovacion.png" > [27]
 Capítulo 4.
-[27
+
+Package natbib Warning: Citation `aws' on page 28 undefined on input line 522.
+
+
+Package natbib Warning: Citation `awscasos' on page 28 undefined on input line 526.
+
+
+Package natbib Warning: Citation `awscasos' on page 28 undefined on input line 528.
+
+[28
 
 ]
+
+Package natbib Warning: Citation `awscasos' on page 29 undefined on input line 529.
+
+
+Package natbib Warning: Citation `awscasos' on page 29 undefined on input line 531.
+
+
+Package natbib Warning: Citation `aws' on page 29 undefined on input line 532.
+
 File: aws_paises.png Graphic file (type QTm)
- <use  "aws_paises.png" > [28]
+<use  "aws_paises.png" >
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 541.
+
+
+Package natbib Warning: Citation `aws' on page 29 undefined on input line 541.
+
+[29]
 File: google_cloud.png Graphic file (type QTm)
  <use  "google_cloud.png" >
+
+Package natbib Warning: Citation `google_cloud' on page 30 undefined on input line 558.
+
+
+Package natbib Warning: Citation `google_cloud' on page 30 undefined on input line 562.
+
 File: encuesta.png Graphic file (type QTm)
- <use  "encuesta.png" > [29]
+<use  "encuesta.png" >
+
+Package natbib Warning: Citation `google_cloud' on page 30 undefined on input line 571.
+
+[30]
 File: migracion.jpg Graphic file (type QTm)
  <use  "migracion.jpg" >
-[30]
-Underfull \hbox (badness 10000) in paragraph at lines 606--606
+
+Package natbib Warning: Citation `google_cloud_migration' on page 31 undefined on input line 594.
+
+
+Package natbib Warning: Citation `azure_def' on page 31 undefined on input line 600.
+
+[31]
+Underfull \hbox (badness 10000) in paragraph at lines 621--621
 []\T1/ptm/b/n/12 Modelo de
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 610--610
+Underfull \hbox (badness 10000) in paragraph at lines 625--625
 []\T1/ptm/m/n/12 CIPSA y
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 610--610
+Underfull \hbox (badness 10000) in paragraph at lines 625--625
 []\T1/ptm/m/n/12 SaaS (cloud
  []
 
 
-Underfull \hbox (badness 6125) in paragraph at lines 624--624
+Underfull \hbox (badness 6125) in paragraph at lines 639--639
 []\T1/ptm/m/n/12 Ivestigación, desa-rro-llo
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 624--624
+Underfull \hbox (badness 10000) in paragraph at lines 639--639
 []\T1/ptm/m/n/12 Windows
  []
 
-[31] [32] [33] (monografiaParalelo.bbl [34]
-Missing character: There is no – in font ptmr8t!
- [35
 
-]) [36] (monografiaParalelo.aux
+Package natbib Warning: Citation `Ferrari' on page 32 undefined on input line 648.
+
+
+Package natbib Warning: Citation `Akami' on page 32 undefined on input line 656.
+
+[32]
+
+Package natbib Warning: Citation `CristianCA' on page 33 undefined on input line 661.
+
+
+Package natbib Warning: Citation `Beimar' on page 33 undefined on input line 663.
+
+[33] [34] (monografiaParalelo.bbl [35]
+Missing character: There is no – in font ptmr8t!
+ [36
+
+])
+
+Package natbib Warning: There were undefined citations.
+
+[37] (monografiaParalelo.aux
 LaTeX Info: Redefining \. on input line 7.
 LaTeX Info: Redefining \% on input line 7.
-)
 
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
- )
+Package natbib Warning: Citation(s) may have changed.
+(natbib)                Rerun to get citations correct.
+
+) )
 (\end occurred inside a group at level 1)
 
 ### semi simple group (level 1) entered at line 33 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 3688 strings out of 427834
- 48279 string characters out of 3148501
- 133806 words of memory out of 3000000
- 7574 multiletter control sequences out of 15000+200000
- 33796 words of font info for 42 fonts, out of 3000000 for 9000
+ 3689 strings out of 427834
+ 48297 string characters out of 3148501
+ 133421 words of memory out of 3000000
+ 7575 multiletter control sequences out of 15000+200000
+ 35492 words of font info for 43 fonts, out of 3000000 for 9000
  1328 hyphenation exceptions out of 8191
  27i,10n,31p,1050b,628s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on monografiaParalelo.pdf (43 pages).
+Output written on monografiaParalelo.pdf (44 pages).

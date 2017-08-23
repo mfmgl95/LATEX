@@ -2,24 +2,24 @@
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {1.1}{\ignorespaces Arquitectura en capas de computaci\'on cloud \cite {handbook}}}{3}
 \contentsline {figure}{\numberline {1.2}{\ignorespaces Tres tipos de computaci\'on cloud \cite {handbook}}}{4}
-\contentsline {figure}{\numberline {1.3}{\ignorespaces Agentes intervinientes en el negocio \cite {tratecno}}}{6}
+\contentsline {figure}{\numberline {1.3}{\ignorespaces Agentes intervinientes en el negocio \cite {tratecno}}}{5}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {3.1}{\ignorespaces Perfil de los participantes de la encuesta}}{19}
-\contentsline {figure}{\numberline {3.2}{\ignorespaces Empresas que utilizan un tipo de nube}}{19}
-\contentsline {figure}{\numberline {3.3}{\ignorespaces Adopci\'on de la nube p\'ublica y privada}}{20}
-\contentsline {figure}{\numberline {3.4}{\ignorespaces Utilizaci\'on de nubes h\'ibridas y caracter\'isticas relevantes}}{20}
-\contentsline {figure}{\numberline {3.5}{\ignorespaces Planes de implementaci\'on de nube privada alojada}}{21}
-\contentsline {figure}{\numberline {3.6}{\ignorespaces Clasificaci\'on de las organizaciones seg\'un el nivel de adopci\'on de la nube}}{21}
-\contentsline {figure}{\numberline {3.7}{\ignorespaces Nivel de madurez de la nube}}{22}
-\contentsline {figure}{\numberline {3.8}{\ignorespaces Ventajas al tener un mayor nivel de madurez de la nube}}{22}
-\contentsline {figure}{\numberline {3.9}{\ignorespaces Computaci\'on Cognitiva}}{23}
-\contentsline {figure}{\numberline {3.10}{\ignorespaces Blockchain}}{24}
-\contentsline {figure}{\numberline {3.11}{\ignorespaces Seguridad}}{25}
-\contentsline {figure}{\numberline {3.12}{\ignorespaces Serverless}}{25}
-\contentsline {figure}{\numberline {3.13}{\ignorespaces Centros de innovaci\'on}}{26}
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Perfil de los participantes de la encuesta}}{20}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Empresas que utilizan un tipo de nube}}{20}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Adopci\'on de la nube p\'ublica y privada}}{21}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Utilizaci\'on de nubes h\'ibridas y caracter\'isticas relevantes}}{21}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Planes de implementaci\'on de nube privada alojada}}{22}
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Clasificaci\'on de las organizaciones seg\'un el nivel de adopci\'on de la nube}}{22}
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Nivel de madurez de la nube}}{23}
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Ventajas al tener un mayor nivel de madurez de la nube}}{23}
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Computaci\'on Cognitiva}}{24}
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Blockchain}}{25}
+\contentsline {figure}{\numberline {3.11}{\ignorespaces Seguridad}}{26}
+\contentsline {figure}{\numberline {3.12}{\ignorespaces Serverless}}{26}
+\contentsline {figure}{\numberline {3.13}{\ignorespaces Centros de innovaci\'on}}{27}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4.1}{\ignorespaces \relax \fontsize {10.95}{13.6}\selectfont \abovedisplayskip 11\p@ plus3\p@ minus6\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6.5\p@ plus3.5\p@ minus3\p@ \def \leftmargin \leftmargini \parsep 5\p@ plus2.5\p@ minus\p@ \topsep 10\p@ plus4\p@ minus6\p@ \itemsep 5\p@ plus2.5\p@ minus\p@ {\leftmargin \leftmargini \topsep 9\p@ plus3\p@ minus5\p@ \parsep 4.5\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip {Distribución de AWS.}}}{28}
-\contentsline {figure}{\numberline {4.2}{\ignorespaces \relax \fontsize {10.95}{13.6}\selectfont \abovedisplayskip 11\p@ plus3\p@ minus6\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6.5\p@ plus3.5\p@ minus3\p@ \def \leftmargin \leftmargini \parsep 5\p@ plus2.5\p@ minus\p@ \topsep 10\p@ plus4\p@ minus6\p@ \itemsep 5\p@ plus2.5\p@ minus\p@ {\leftmargin \leftmargini \topsep 9\p@ plus3\p@ minus5\p@ \parsep 4.5\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip {Red de Google Cloud Platform.}}}{29}
-\contentsline {figure}{\numberline {4.3}{\ignorespaces \relax \fontsize {10.95}{13.6}\selectfont \abovedisplayskip 11\p@ plus3\p@ minus6\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6.5\p@ plus3.5\p@ minus3\p@ \def \leftmargin \leftmargini \parsep 5\p@ plus2.5\p@ minus\p@ \topsep 10\p@ plus4\p@ minus6\p@ \itemsep 5\p@ plus2.5\p@ minus\p@ {\leftmargin \leftmargini \topsep 9\p@ plus3\p@ minus5\p@ \parsep 4.5\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip {Resultados de Encuesta sobre el uso de nubes p\'ublicas}}}{29}
-\contentsline {figure}{\numberline {4.4}{\ignorespaces \relax \fontsize {10.95}{13.6}\selectfont \abovedisplayskip 11\p@ plus3\p@ minus6\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6.5\p@ plus3.5\p@ minus3\p@ \def \leftmargin \leftmargini \parsep 5\p@ plus2.5\p@ minus\p@ \topsep 10\p@ plus4\p@ minus6\p@ \itemsep 5\p@ plus2.5\p@ minus\p@ {\leftmargin \leftmargini \topsep 9\p@ plus3\p@ minus5\p@ \parsep 4.5\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip { Pasos de alto nivel involucrados en una migraci\'on de VM en vivo}}}{30}
+\contentsline {figure}{\numberline {4.1}{\ignorespaces \relax \fontsize {10.95}{13.6}\selectfont \abovedisplayskip 11\p@ plus3\p@ minus6\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6.5\p@ plus3.5\p@ minus3\p@ \def \leftmargin \leftmargini \parsep 5\p@ plus2.5\p@ minus\p@ \topsep 10\p@ plus4\p@ minus6\p@ \itemsep 5\p@ plus2.5\p@ minus\p@ {\leftmargin \leftmargini \topsep 9\p@ plus3\p@ minus5\p@ \parsep 4.5\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip {Distribución de AWS.}}}{29}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces \relax \fontsize {10.95}{13.6}\selectfont \abovedisplayskip 11\p@ plus3\p@ minus6\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6.5\p@ plus3.5\p@ minus3\p@ \def \leftmargin \leftmargini \parsep 5\p@ plus2.5\p@ minus\p@ \topsep 10\p@ plus4\p@ minus6\p@ \itemsep 5\p@ plus2.5\p@ minus\p@ {\leftmargin \leftmargini \topsep 9\p@ plus3\p@ minus5\p@ \parsep 4.5\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip {Red de Google Cloud Platform.}}}{30}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces \relax \fontsize {10.95}{13.6}\selectfont \abovedisplayskip 11\p@ plus3\p@ minus6\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6.5\p@ plus3.5\p@ minus3\p@ \def \leftmargin \leftmargini \parsep 5\p@ plus2.5\p@ minus\p@ \topsep 10\p@ plus4\p@ minus6\p@ \itemsep 5\p@ plus2.5\p@ minus\p@ {\leftmargin \leftmargini \topsep 9\p@ plus3\p@ minus5\p@ \parsep 4.5\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip {Resultados de Encuesta sobre el uso de nubes p\'ublicas}}}{30}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces \relax \fontsize {10.95}{13.6}\selectfont \abovedisplayskip 11\p@ plus3\p@ minus6\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6.5\p@ plus3.5\p@ minus3\p@ \def \leftmargin \leftmargini \parsep 5\p@ plus2.5\p@ minus\p@ \topsep 10\p@ plus4\p@ minus6\p@ \itemsep 5\p@ plus2.5\p@ minus\p@ {\leftmargin \leftmargini \topsep 9\p@ plus3\p@ minus5\p@ \parsep 4.5\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip { Pasos de alto nivel involucrados en una migraci\'on de VM en vivo}}}{31}
